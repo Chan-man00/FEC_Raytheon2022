@@ -24,7 +24,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 use IEEE.STD_LOGIC_MISC.ALL;
 
-entity dense_serial is
+entity dense_relu is
     Generic (
         REG_WIDTH   : integer;
         FIXED_POINT : integer
@@ -38,9 +38,9 @@ entity dense_serial is
         o_output   : out SIGNED (REG_WIDTH-1 downto 0);
         o_overflow : out STD_LOGIC
     );
-end dense_serial;
+end dense_relu;
 
-architecture Behavioral of dense_serial is
+architecture Behavioral of dense_relu is
     component af_relu is
         Generic (
             REG_WIDTH   : integer := REG_WIDTH;

@@ -25,12 +25,12 @@ use IEEE.NUMERIC_STD.ALL;
 use IEEE.STD_LOGIC_MISC.ALL;
 use std.textio.all;
 
-entity top is
+entity simple_dnn_tb is
 --  Port ( );
-end top;
+end simple_dnn_tb;
 
     
-architecture Behavioral of top is
+architecture Behavioral of simple_dnn_tb is
     
     constant CLK_HALF_T : time := 1.25 ns;
     -- simulate for at least 1.1 ms at this clock speed
@@ -43,7 +43,7 @@ architecture Behavioral of top is
     constant LAYER2_COUNT : integer := 10;
     constant OUTPUT_COUNT : integer := 10;
     
-    component dense_serial is
+    component dense_relu is
         Generic (
             REG_WIDTH   : integer := REG_WIDTH;
             FIXED_POINT : integer := FIXED_POINT
@@ -57,7 +57,7 @@ architecture Behavioral of top is
             o_output   : out SIGNED (REG_WIDTH-1 downto 0);
             o_overflow : out STD_LOGIC
         );
-    end component dense_serial;
+    end component dense_relu;
     
     -- array of SIGNED vectors
     type SIGNED_ARRAY is array(natural range <>) of SIGNED;
@@ -240,7 +240,7 @@ begin
         end if;
     end process;
     
-    node : dense_serial
+    node : dense_relu
         Port map (
             clk        => clk,
             i_initbias => initbias,
