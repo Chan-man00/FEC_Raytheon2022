@@ -40,8 +40,7 @@ architecture Behavioral of af_tanh_tb is
         Port (
             i_input  : in  SIGNED (REG_WIDTH-1 downto 0);
             i_enable : in  STD_LOGIC;
-            o_output : out SIGNED (REG_WIDTH-1 downto 0);
-            o_ready  : out STD_LOGIC
+            o_output : out SIGNED (REG_WIDTH-1 downto 0)
         );
     end component af_tanh;
     
@@ -71,7 +70,6 @@ architecture Behavioral of af_tanh_tb is
     signal x  : SIGNED (REG_WIDTH-1 downto 0) := (others => '0');
     signal y  : SIGNED (REG_WIDTH-1 downto 0) := (others => '0');
     signal en : STD_LOGIC := '0';
-    signal ready : STD_LOGIC;
 begin
     
     -- simulation control
@@ -105,8 +103,7 @@ begin
         Port map (
             i_input  => x,
             i_enable => en,
-            o_output => y,
-            o_ready  => ready
+            o_output => y
         );
     
 end Behavioral;

@@ -33,8 +33,7 @@ entity af_tanh is
     Port (
         i_input  : in  SIGNED (REG_WIDTH-1 downto 0);
         i_enable : in  STD_LOGIC;
-        o_output : out SIGNED (REG_WIDTH-1 downto 0);
-        o_ready  : out STD_LOGIC
+        o_output : out SIGNED (REG_WIDTH-1 downto 0)
     );
 end af_tanh;
 
