@@ -14,8 +14,8 @@
 -- 
 -- Revision:
 -- Revision 0.01 - File Created
--- Additional Comments:
--- 
+-- Additional Comments: Recommend disabling the simulation waveform view when testing large amounts of inputs to save disk space
+--                      (Tools->Settings->Simulation->Elaboration->"xsim.elaborate.debug_level"=off)
 ----------------------------------------------------------------------------------
 
 
@@ -33,11 +33,11 @@ end basic_nn_tb;
 architecture Behavioral of basic_nn_tb is
     
     constant CLK_HALF_T : time := 1.25 ns;
-    -- simulate for at least 1.1 ms at this clock speed
     
     constant REG_WIDTH    : integer := 32; -- total number of bits
     constant FIXED_POINT  : integer := 16; -- number of fractional bits (i.e. (1<<FIXED_POINT) == 1.0)
     
+    constant TEST_COUNT   : integer := 10; -- all 10000 takes a very long time
     constant INPUT_COUNT  : integer := 28;
     constant LAYER1_COUNT : integer := 64;
     constant LAYER2_COUNT : integer := 10;
@@ -101,14 +101,14 @@ architecture Behavioral of basic_nn_tb is
         for i in 0 to count - 1 loop
             readline(text_file, text_line);
             hread(text_line, data(i));
-        end loop;     
+        end loop;
         return data;
     end function;
     
     -- layer weights & test input
     signal L1_weights : SIGNED_ARRAY(0 to L1_WEIGHT_CT-1)(REG_WIDTH-1 downto 0) := load_array("basic1.mem", L1_WEIGHT_CT);
     signal L2_weights : SIGNED_ARRAY(0 to L2_WEIGHT_CT-1)(REG_WIDTH-1 downto 0) := load_array("basic2.mem", L2_WEIGHT_CT);
-    signal inputs     : SIGNED_ARRAY(0 to INPUT_COUNT*INPUT_COUNT-1)(REG_WIDTH-1 downto 0) := load_array("test.mem", INPUT_COUNT*INPUT_COUNT);
+    signal inputs     : SIGNED_ARRAY(0 to INPUT_COUNT*INPUT_COUNT-1)(REG_WIDTH-1 downto 0); -- := load_array("test.mem", INPUT_COUNT*INPUT_COUNT*TEST_COUNT);
     
     signal enable     : STD_LOGIC := '0';
     signal outputs_1a : SIGNED_ARRAY(0 to LAYER1_COUNT-1)(REG_WIDTH-1 downto 0);
@@ -123,7 +123,8 @@ architecture Behavioral of basic_nn_tb is
     
     type STATE_TYPE is (STATE_IDLE, STATE_INIT,
                         STATE_BIAS_1, STATE_MULTIN_1, STATE_MULTFB_1, STATE_ACTIVATE_1, STATE_WAIT_1, STATE_DONE_1,
-                        STATE_BIAS_2, STATE_MULT_2, STATE_ACTIVATE_2, STATE_WAIT_2a, STATE_WAIT_2b, STATE_DONE_2);
+                        STATE_BIAS_2, STATE_MULT_2, STATE_ACTIVATE_2, STATE_WAIT_2a, STATE_WAIT_2b, STATE_DONE_2,
+                        STATE_WRITE, STATE_STOP);
     signal state     : STATE_TYPE := STATE_IDLE;
     signal nextstate : STATE_TYPE := STATE_IDLE;
     
@@ -152,6 +153,10 @@ architecture Behavioral of basic_nn_tb is
     signal dense_finish  : STD_LOGIC;
     
     signal clk : std_logic := '0';
+    
+    signal input_index   : integer := 0;
+    file output_file     : text open write_mode is "output.csv";
+    file input_file      : text open read_mode is "test.mem";
 begin
     -- clock
     clk <= not clk after CLK_HALF_T;
@@ -163,7 +168,7 @@ begin
         wait for 5 ns;
         
         enable <= '1';
-        wait for 1.1 ms;
+        wait for TEST_COUNT*0.5 ms;
         
         enable <= '0';
         wait for 5 ns;
@@ -189,14 +194,18 @@ begin
     end process;
     
     -- update states
-    process (enable, state, iteration, input_counter, feedb_counter, node_counter, gru_ready)
+    process (enable, state, iteration, input_counter, feedb_counter, node_counter, gru_ready, input_index)
     begin
         if enable = '0' then
             nextstate <= STATE_IDLE; -- idle while not enabled
         else
             case state is
                 when STATE_IDLE =>
-                    nextstate <= STATE_INIT; -- initialize first iteration when enabled
+                    if input_index < TEST_COUNT then
+                        nextstate <= STATE_INIT; -- initialize first iteration when enabled
+                    else
+                        nextstate <= STATE_STOP; -- don't run again after it has already finished
+                    end if;
                 when STATE_INIT =>
                     nextstate <= STATE_BIAS_1; -- begin layer 1
                 
@@ -249,16 +258,27 @@ begin
                     end if;
                 when STATE_DONE_2 =>
                     if iteration = INPUT_COUNT-1 then
-                        nextstate <= STATE_DONE_2; -- loop here until disabled
+                        nextstate <= STATE_WRITE;
                     else
                         nextstate <= STATE_BIAS_1; -- go back to layer 1
                     end if;
+                
+                when STATE_WRITE =>
+                    if input_index < TEST_COUNT then
+                        nextstate <= STATE_IDLE; -- reset
+                    else
+                        nextstate <= STATE_STOP;
+                    end if;
+                when STATE_STOP =>
+                    nextstate <= STATE_STOP; -- loop forever
             end case;
         end if;
     end process;
     
     -- state functions
     process (clk, state, iteration, input_counter, feedb_counter, node_counter, inputs, L1_weights, L2_weights, output_sel, gru_ready)
+        variable text_line : line;
+        variable read_data : SIGNED (REG_WIDTH-1 downto 0);
     begin
         if rising_edge(clk) then
             case state is
@@ -276,6 +296,12 @@ begin
                     node_counter <= 0;
                     
                 when STATE_INIT =>
+                    -- load input data
+                    for i in 0 to INPUT_COUNT*INPUT_COUNT-1 loop
+                        readline(input_file, text_line);
+                        hread(text_line, read_data);
+                        inputs(i) <= read_data;
+                    end loop;
                     -- clear previous state
                     for i in 0 to LAYER1_COUNT-1 loop
                         outputs_1b(i) <= (others => '0');
@@ -385,6 +411,19 @@ begin
                         output_sel <= not output_sel; -- swap output with previous state
                         iteration <= iteration + 1; -- next iteration
                     end if;
+                
+                when STATE_WRITE =>
+                    write(text_line, input_index);
+                    write(text_line, ',');
+                    write(text_line, to_integer(unsigned(selection)));
+                    for i in 0 to OUTPUT_COUNT-1 loop
+                        write(text_line, ',');
+                        write(text_line, to_integer(outputs_2(i)));
+                    end loop;
+                    writeline(output_file, text_line);
+                    input_index <= input_index + 1;
+                when STATE_STOP =>
+                    -- nothing
             end case;
             state <= nextstate;
         end if;
