@@ -27,60 +27,60 @@ all_data = 1000000
 #dat = shit((all_data,1))
 #ans = shit((all_data,1))
 
-'''dat_20db = np.genfromtxt('data\\training_20db.csv',
+'''dat_20db = np.genfromtxt('training_20db.csv',
               delimiter=',')#, usecols = (0, 1), max_rows=all_data/2-32
 dat_20db[0:][0][:63] = dat_20db[0:][0][:63]/max(dat_20db.max(),abs(dat_20db.min())) #dat.max()
 
-dat_15db = np.genfromtxt('data\\training_15db.csv',
+dat_15db = np.genfromtxt('training_15db.csv',
               delimiter=',')#, usecols = (0, 1), max_rows=all_data/2-32
 dat_15db[0:][0][:63] = dat_15db[0:][0][:63]/max(dat_15db.max(),abs(dat_15db.min())) #dat.max()
 
 
-dat_10db = np.genfromtxt('data\\training_10db.csv',
+dat_10db = np.genfromtxt('training_10db.csv',
               delimiter=',')#, usecols = (0, 1), max_rows=all_data/2-32
 dat_10db[0:][0][:63] = dat_10db[0:][0][:63]/max(dat_10db.max(),abs(dat_10db.min())) #dat.max()
 
-dat_7db = np.genfromtxt('data\\training_7db.csv',
+dat_7db = np.genfromtxt('training_7db.csv',
               delimiter=',')#, usecols = (0, 1), max_rows=all_data/2-32
 dat_7db[0:][0][:63] = dat_7db[0:][0][:63]/max(dat_7db.max(),abs(dat_7db.min())) #dat.max()'''
 
-dat_5db = np.genfromtxt('data\\training_5db.csv',
+dat_5db = np.genfromtxt('training_5db.csv',
               delimiter=',')#, usecols = (0, 1), max_rows=all_data/2-32
 dat_5db[0:][0][:63] = dat_5db[0:][0][:63]/max(dat_5db.max(),abs(dat_5db.min())) #dat.max()
 
-dat_3db = np.genfromtxt('data\\training_3db.csv',
+dat_3db = np.genfromtxt('training_3db.csv',
               delimiter=',')#, usecols = (0, 1), max_rows=all_data/2-32
 dat_3db[0:][0][:63] = dat_3db[0:][0][:63]/max(dat_3db.max(),abs(dat_3db.min())) #dat.max()
 
-'''dat_1db = np.genfromtxt('data\\training_1db.csv',
+'''dat_1db = np.genfromtxt('training_1db.csv',
               delimiter=',')#, usecols = (0, 1), max_rows=all_data/2-32
 dat_1db[0:][0][:63] = dat_1db[0:][0][:63]/max(dat_1db.max(),abs(dat_1db.min())) #dat.max()
 
-dat_0db = np.genfromtxt('data\\training_0db.csv',
+dat_0db = np.genfromtxt('training_0db.csv',
               delimiter=',')#, usecols = (0, 1), max_rows=all_data/2-32
 dat_0db[0:][0][:63] = dat_0db[0:][0][:63]/max(dat_0db.max(),abs(dat_0db.min())) #dat.max()
 
 dat = np.append(dat_20db,dat_15db,dat_10db,dat_7db,dat_5db,dat_3db,dat_1db,dat_0db)'''
 dat = np.append(dat_3db,dat_5db,axis=0)
 print(dat[0:1][0][1:99])
-'''ans_20 = np.genfromtxt('data\\answer_20db.csv',#dtype=int(),
+'''ans_20 = np.genfromtxt('answer_20db.csv',#dtype=int(),
               delimiter=',')#, usecols = (2), max_rows=all_data-322624
-ans_15 = np.genfromtxt('data\\answer_15db.csv',#dtype=int(),
+ans_15 = np.genfromtxt('answer_15db.csv',#dtype=int(),
               delimiter=',')#, usecols = (2), max_rows=all_data-322624
 
-ans_10 = np.genfromtxt('data\\answer_10db.csv',
+ans_10 = np.genfromtxt('answer_10db.csv',
               delimiter=',')#, usecols = (2), max_rows=all_data-
-ans_7 = np.genfromtxt('data\\answer_7db.csv',#dtype=int(),
+ans_7 = np.genfromtxt('answer_7db.csv',#dtype=int(),
               delimiter=',')#, usecols = (2), max_rows=all_data-322624   '''
-ans_5 = np.genfromtxt('data\\answer_5db.csv',#dtype=int(),
+ans_5 = np.genfromtxt('answer_5db.csv',#dtype=int(),
               delimiter=',')#, usecols = (2), max_rows=all_data-322624
-ans_3 = np.genfromtxt('data\\answer_3db.csv',#dtype=int(),
-              delimiter=',')#, usecols = (2), max_rows=all_data-322624
-
-'''ans_1 = np.genfromtxt('data\\answer_1db.csv',#dtype=int(),
+ans_3 = np.genfromtxt('answer_3db.csv',#dtype=int(),
               delimiter=',')#, usecols = (2), max_rows=all_data-322624
 
-ans_0 = np.genfromtxt('data\\answer_0db.csv',
+'''ans_1 = np.genfromtxt('answer_1db.csv',#dtype=int(),
+              delimiter=',')#, usecols = (2), max_rows=all_data-322624
+
+ans_0 = np.genfromtxt('answer_0db.csv',
               delimiter=',')#, usecols = (2), max_rows=all_data-322624   '''
 
 ans = np.append(ans_5,ans_3,axis=0)# ans_20,ans_15,ans_10,ans_7,,ans_1,ans_0
