@@ -23,13 +23,10 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 use IEEE.STD_LOGIC_MISC.ALL;
+use work.Common.ALL;
 
 
 entity gru is
-    Generic (
-        REG_WIDTH   : integer;
-        FIXED_POINT : integer
-    );
     Port (
         clk         : in  STD_LOGIC;
         i_initbias  : in  STD_LOGIC; -- initialize internal accumulators and set biases
@@ -49,10 +46,6 @@ end gru;
 
 architecture Behavioral of gru is
     component af_relu is
-        Generic (
-            REG_WIDTH   : integer := REG_WIDTH;
-            FIXED_POINT : integer := FIXED_POINT
-        );
         Port (
             i_input     : in  SIGNED (REG_WIDTH*2-1 downto 0);
             o_output    : out SIGNED (REG_WIDTH-1 downto 0);
@@ -61,14 +54,12 @@ architecture Behavioral of gru is
     end component af_relu;
     
     component af_tanh is
-        Generic (
-            REG_WIDTH   : integer := REG_WIDTH;
-            FIXED_POINT : integer := FIXED_POINT
-        );
         Port (
+            clk         : in  STD_LOGIC;
             i_input     : in  SIGNED (REG_WIDTH-1 downto 0);
             i_enable    : in  STD_LOGIC;
-            o_output    : out SIGNED (REG_WIDTH-1 downto 0)
+            o_output    : out SIGNED (REG_WIDTH-1 downto 0);
+            o_ready     : out STD_LOGIC
         );
     end component af_tanh;
     
@@ -84,6 +75,7 @@ architecture Behavioral of gru is
     signal acc_r     : SIGNED (REG_WIDTH*2-1 downto 0) := (others => '0');
     signal acc_hin   : SIGNED (REG_WIDTH*2-1 downto 0) := (others => '0');
     signal acc_hfb   : SIGNED (REG_WIDTH*2-1 downto 0) := (others => '0');
+    signal hfb_prod  : SIGNED (REG_WIDTH*2-1 downto 0) := (others => '0');
     signal tanh_z    : SIGNED (REG_WIDTH-1 downto 0) := (others => '0');
     signal tanh_r    : SIGNED (REG_WIDTH-1 downto 0) := (others => '0');
     signal relu_h    : SIGNED (REG_WIDTH*2-1 downto 0) := (others => '0');
@@ -94,18 +86,25 @@ architecture Behavioral of gru is
     signal of_h      : STD_LOGIC;
     signal en_tanh   : STD_LOGIC := '0';
     signal en_fsm    : STD_LOGIC := '0';
+    signal ready_z   : STD_LOGIC;
+    signal ready_r   : STD_LOGIC;
+    
+    signal calc1     : SIGNED (REG_WIDTH*2-1 downto 0) := (others => '0');
+    signal calc2     : SIGNED (REG_WIDTH*2-1 downto 0) := (others => '0');
+    signal calc2a    : SIGNED (REG_WIDTH-1 downto 0) := (others => '0');
     
     signal output    : SIGNED (REG_WIDTH*2-1 downto 0) := (others => '0');
     signal ready     : STD_LOGIC := '0';
     signal overflow  : STD_LOGIC := '0';
     
     -- FSM to compute final output in steps
-    type STATE_TYPE is (STATE_IDLE, STATE_TANH, STATE_CALC, STATE_READY, STATE_HOLD);
+    type STATE_TYPE is (STATE_IDLE, STATE_TANH, STATE_TANH_WAIT, STATE_CALC, STATE_CALC_2, STATE_READY, STATE_HOLD);
     signal state     : STATE_TYPE := STATE_IDLE;
     signal nextstate : STATE_TYPE := STATE_IDLE;
 begin
     
-    process (clk, i_initbias, i_multin, i_multfb, i_finish, i_input, i_weight_z, i_weight_r, i_weight_h, i_bias_h2, acc_z, acc_r, acc_hin, acc_hfb)
+    --process (clk, i_initbias, i_multin, i_multfb, i_finish, i_input, i_weight_z, i_weight_r, i_weight_h, i_bias_h2, acc_z, acc_r, acc_hin, acc_hfb)
+    process (clk)
     begin
         if rising_edge(clk) then
             if i_initbias = '1' then
@@ -128,6 +127,7 @@ begin
                 acc_hfb(ACC_REG_BITS) <= i_bias_h2; -- set accumulator value to bias value
                 acc_hfb(FIXED_POINT-1) <= '1'; -- add 1/2 for rounding 
                 acc_hfb(FIXED_POINT-2 downto 0) <= (others => '0'); -- set sub-fractional bits to 0
+                hfb_prod <= (others => '0');
                 
                 en_fsm <= '0';
                 overflow <= '0';
@@ -136,10 +136,12 @@ begin
                 acc_r <= acc_r + (i_input * i_weight_r);
                 acc_hin <= acc_hin + (i_input * i_weight_h);
             elsif i_multfb = '1' then
+                acc_hfb <= acc_hfb + hfb_prod;
                 acc_z <= acc_z + (i_input * i_weight_z);
                 acc_r <= acc_r + (i_input * i_weight_r);
-                acc_hfb <= acc_hfb + (i_input * i_weight_h);
+                hfb_prod <= i_input * i_weight_h;
             elsif i_finish = '1' then
+                acc_hfb <= acc_hfb + hfb_prod;
                 en_fsm <= '1';
             end if;
         end if;
@@ -153,8 +155,16 @@ begin
                 when STATE_IDLE =>
                     nextstate <= STATE_TANH;
                 when STATE_TANH =>
-                    nextstate <= STATE_CALC;
+                    nextstate <= STATE_TANH_WAIT;
+                when STATE_TANH_WAIT =>
+                    if ready_z = '1' and ready_r = '1' then
+                        nextstate <= STATE_CALC;
+                    else
+                        nextstate <= STATE_TANH_WAIT;
+                    end if;
                 when STATE_CALC =>
+                    nextstate <= STATE_CALC_2;
+                when STATE_CALC_2 =>
                     nextstate <= STATE_READY;
                 when STATE_READY =>
                     nextstate <= STATE_HOLD;
@@ -167,7 +177,8 @@ begin
     end process;
     
     -- state functions
-    process (clk, state)
+    --process (clk, state)
+    process (clk)
     begin
         if rising_edge(clk) then
             case state is
@@ -196,15 +207,24 @@ begin
                     end if;
                     en_tanh <= '1';
                     
+                when STATE_TANH_WAIT =>
+                    -- nothing
+                    
                 when STATE_CALC =>
                     -- TODO: unhandled overflow potential in acc_hfb(ACC_REG_BITS)
-                    relu_h <= acc_hin + (out_r * acc_hfb(ACC_REG_BITS));
+                    --relu_h <= acc_hin + (out_r * acc_hfb(ACC_REG_BITS));
+                    relu_h <= acc_hin + resize(out_r(18 downto 0) * acc_hfb(ACC_REG_BITS), REG_WIDTH*2); -- outr has a maximum range of -65536 to 65536, 19 bits
+                    calc1 <= out_z * i_input;
+                    calc2a <= ONE - out_z;
+                    
+                when STATE_CALC_2 =>
+                    calc2 <= calc2a * out_h;
                     
                 when STATE_READY =>
-                    output <= out_z * i_input + (ONE - out_z) * out_h;
-                    ready <= '1';
+                    output <= calc1 + calc2;
                 
                 when STATE_HOLD =>
+                    ready <= '1';
                     -- doesn't do anything
             end case;
             state <= nextstate;
@@ -223,15 +243,19 @@ begin
     -- Activation functions for each sub-block
     z_af : af_tanh
         Port map (
+            clk        => clk,
             i_input    => tanh_z,
             i_enable   => en_tanh,
-            o_output   => out_z
+            o_output   => out_z,
+            o_ready    => ready_z
         );
     r_af : af_tanh
         Port map (
+            clk        => clk,
             i_input    => tanh_r,
             i_enable   => en_tanh,
-            o_output   => out_r
+            o_output   => out_r,
+            o_ready    => ready_r
         );
     h_af : af_relu
         Port map (

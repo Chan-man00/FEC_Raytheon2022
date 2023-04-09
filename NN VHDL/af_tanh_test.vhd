@@ -39,10 +39,6 @@ architecture Behavioral of af_tanh_test is
     constant FIXED_POINT  : integer := 16; -- number of fractional bits (i.e. (1<<FIXED_POINT) == 1.0)
     
     component af_tanh is
-        Generic (
-            REG_WIDTH   : integer := REG_WIDTH;
-            FIXED_POINT : integer := FIXED_POINT
-        );
         Port (
             i_input  : in  SIGNED (REG_WIDTH-1 downto 0);
             i_enable : in  STD_LOGIC;

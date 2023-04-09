@@ -23,12 +23,9 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 use IEEE.STD_LOGIC_MISC.ALL;
+use work.Common.ALL;
 
 entity dense_sigmoid is
-    Generic (
-        REG_WIDTH   : integer;
-        FIXED_POINT : integer
-    );
     Port (
         clk        : in  STD_LOGIC;
         i_initbias : in  STD_LOGIC;
@@ -36,20 +33,19 @@ entity dense_sigmoid is
         i_finish   : in  STD_LOGIC;
         i_input    : in  SIGNED (REG_WIDTH-1 downto 0);
         i_weight   : in  SIGNED (REG_WIDTH-1 downto 0);
-        o_output   : out SIGNED (REG_WIDTH-1 downto 0)
+        o_output   : out SIGNED (REG_WIDTH-1 downto 0);
+        o_ready    : out STD_LOGIC
     );
 end dense_sigmoid;
 
 architecture Behavioral of dense_sigmoid is
     component af_sigmoid is
-        Generic (
-            REG_WIDTH   : integer := REG_WIDTH;
-            FIXED_POINT : integer := FIXED_POINT
-        );
         Port (
+            clk        : in  STD_LOGIC;
             i_input    : in  SIGNED (REG_WIDTH-1 downto 0);
             i_enable   : in  STD_LOGIC;
-            o_output   : out SIGNED (REG_WIDTH-1 downto 0)
+            o_output   : out SIGNED (REG_WIDTH-1 downto 0);
+            o_ready    : out STD_LOGIC
         );
     end component af_sigmoid;
     
@@ -63,7 +59,8 @@ architecture Behavioral of dense_sigmoid is
     signal enable    : STD_LOGIC := '0';
 begin
     
-    process (clk, i_initbias, i_mult, i_input, i_weight, acc)
+    --process (clk, i_initbias, i_mult, i_input, i_weight, acc)
+    process (clk)
     begin
         if rising_edge(clk) then
             if i_initbias = '1' then
@@ -91,9 +88,11 @@ begin
     
     af : af_sigmoid
         Port map (
+            clk        => clk,
             i_input    => sig_in,
             i_enable   => enable,
-            o_output   => o_output
+            o_output   => o_output,
+            o_ready    => o_ready
         );
     
 end Behavioral;

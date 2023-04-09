@@ -130,7 +130,7 @@ architecture Behavioral of basic_nn_tb is
     
     signal iteration     : integer range 0 to INPUT_COUNT-1 := 0;
     signal input_counter : integer range 0 to INPUT_COUNT-1 := 0;
-    signal feedb_counter : integer range 0 to INPUT_COUNT-1 := 0;
+    signal feedb_counter : integer range 0 to LAYER1_COUNT-1 := 0;
     signal node_counter  : integer range 0 to LAYER1_COUNT-1 := 0;
     
     signal node_input    : SIGNED (REG_WIDTH-1 downto 0);

@@ -23,12 +23,9 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 use IEEE.STD_LOGIC_MISC.ALL;
+use work.Common.ALL;
 
 entity af_relu is
-    Generic (
-        REG_WIDTH   : integer;
-        FIXED_POINT : integer
-    );
     Port (
         i_input    : in  SIGNED (REG_WIDTH*2-1 downto 0);
         o_output   : out SIGNED (REG_WIDTH-1 downto 0);
