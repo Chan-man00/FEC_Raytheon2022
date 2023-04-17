@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axi_dbg_hub
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap axi_dbg_hub C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axi_dbg_hub
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  -L axi_dbg_hub +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -sv -svinputport=relaxed -work axi_dbg_hub -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_dbg_hub/.cxl.systemverilog.axi_dbg_hub.axi_dbg_hub.nt64.cmf

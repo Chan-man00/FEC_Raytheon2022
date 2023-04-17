@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../NeuralNet.gen/sources_1/ip/output_1a/sim/output_1a.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

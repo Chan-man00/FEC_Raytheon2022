@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/pr_decoupler_v1_0_10
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap pr_decoupler_v1_0_10 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/pr_decoupler_v1_0_10
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work pr_decoupler_v1_0_10 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/pr_decoupler_v1_0_10/.cxl.vhdl.pr_decoupler_v1_0_10.pr_decoupler_v1_0_10.nt64.cmf

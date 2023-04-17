@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vAPB_to_VIO2
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1677778883
+!i10b 1
+!s100 1XYn=:n^h<K;Uf<8C[jdE3
+IzInMCeBD8G:3L<HbGUY8=0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 sim_trig_v1_0_vl_rfs_sv_unit
+S1
+R0
+Z5 w1665757278
+Z6 8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/sim_trig_v1_0/hdl/sim_trig_v1_0_vl_rfs.sv
+Z7 FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/sim_trig_v1_0/hdl/sim_trig_v1_0_vl_rfs.sv
+L0 23
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1677778883.000000
+Z10 !s107 C:/Xilinx/Vivado/2022.2/data/ip/xilinx/sim_trig_v1_0/hdl/sim_trig_v1_0_vl_rfs.sv|
+Z11 !s90 -L|sim_trig_v1_0_8|+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-sv|-svinputport=relaxed|-work|sim_trig_v1_0_8|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/sim_trig_v1_0_8/.cxl.systemverilog.sim_trig_v1_0_8.sim_trig_v1_0_8.nt64.cmf|
+!i113 1
+Z12 o-L sim_trig_v1_0_8 -sv -svinputport=relaxed -work sim_trig_v1_0_8
+Z13 !s92 -L sim_trig_v1_0_8 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -sv -svinputport=relaxed -work sim_trig_v1_0_8
+Z14 tCvgOpt 0
+n@a@p@b_to_@v@i@o2
+vbridge_logic
+R1
+R2
+!i10b 1
+!s100 ^2fU>GPXTB`zamQM:aHWQ0
+IjU3`NzcKaTKeD9=XbNzIg3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 427
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vsim_trig_pulse_generator
+R1
+R2
+!i10b 1
+!s100 _I@a4BH;Kfj`^aCWWX0Ye0
+IDPl_:MMT]X4:IB7@WPhl?3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 329
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vsim_trig_pulse_stretcher
+R1
+R2
+!i10b 1
+!s100 4Y=61:ZDk<@2NkFB=a^JW3
+IQeFGfBUK5ekB6]@H4Yb1G2
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 179
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vsim_trig_synchronizer
+R1
+R2
+!i10b 1
+!s100 z:GZeaJ4Cj9edR[>aALM@1
+I_<Fg;BQ77`<6BMb_;jVBE0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 640
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14

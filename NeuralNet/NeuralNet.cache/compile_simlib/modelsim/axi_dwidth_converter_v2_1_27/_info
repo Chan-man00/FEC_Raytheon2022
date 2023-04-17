@@ -1,0 +1,318 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxi_dwidth_converter_v2_1_27_a_downsizer
+Z1 !s110 1677779539
+!i10b 1
+!s100 l2``LM?j[IA1o4co<E[An1
+IWP9Q?=@A^MO[`9>b;UL0A2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757530
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_dwidth_converter_v2_1\hdl\axi_dwidth_converter_v2_1_vl_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_dwidth_converter_v2_1\hdl\axi_dwidth_converter_v2_1_vl_rfs.v
+L0 64
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677779539.000000
+Z8 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_dwidth_converter_v2_1\hdl\axi_dwidth_converter_v2_1_vl_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axi_dwidth_converter_v2_1_27|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_dwidth_converter_v2_1_27/.cxl.verilog.axi_dwidth_converter_v2_1_27.axi_dwidth_converter_v2_1_27.nt64.cmf|
+!i113 1
+Z10 o-work axi_dwidth_converter_v2_1_27
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axi_dwidth_converter_v2_1_27
+Z12 tCvgOpt 0
+vaxi_dwidth_converter_v2_1_27_a_upsizer
+R1
+!i10b 1
+!s100 WkVA::[7B_EiVi?64VMUm1
+IZYG8Z6i<]:;1X`g@]g4F43
+R2
+R0
+R3
+R4
+R5
+L0 3603
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_axi4lite_downsizer
+R1
+!i10b 1
+!s100 Zj`K850`AYCF73<a>KcF52
+IT7JPBD?3IRk8La_2XR=iH1
+R2
+R0
+R3
+R4
+R5
+L0 3003
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_axi4lite_upsizer
+R1
+!i10b 1
+!s100 XPN0]Dg[<SJZ9PE0>:_oU2
+Im<A>3k<`gjhkPE5=YV@5<2
+R2
+R0
+R3
+R4
+R5
+L0 3334
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_axi_downsizer
+R1
+!i10b 1
+!s100 R:<a8zWiK[2?cAZKA]Ggm1
+InC7mfR53bF5=KJD2l7K`g3
+R2
+R0
+R3
+R4
+R5
+L0 2380
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_axi_upsizer
+Z13 !s110 1677779540
+!i10b 1
+!s100 E>9Ec?U250FFPI90i]A5e2
+I@zImG`HUKdNbgRBCJj15`0
+R2
+R0
+R3
+R4
+R5
+L0 12808
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_b_downsizer
+R1
+!i10b 1
+!s100 [I[8]LHjTPD>@4cKg5I:Z1
+IildQ0iObiCNoRPWeHo^?X0
+R2
+R0
+R3
+R4
+R5
+L0 1251
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_r_downsizer
+R1
+!i10b 1
+!s100 f3fSZ20WDPh5KU^5KTN@l1
+IgPlV9Z7_6aJKI6BMa[G<73
+R2
+R0
+R3
+R4
+R5
+L0 1533
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_r_upsizer
+R1
+!i10b 1
+!s100 gW4<1GZA9aaBgd6Ym^0@20
+IFC1KHK?87UU6WQN7geAOA0
+R2
+R0
+R3
+R4
+R5
+L0 4653
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_r_upsizer_pktfifo
+R13
+!i10b 1
+!s100 eM6aS>gi`fFf6@QeG>c_b0
+I2kdL:I61WE4@LOV4K88W?1
+R2
+R0
+R3
+R4
+R5
+L0 9601
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_top
+R13
+!i10b 1
+!s100 GSYNZ[lc8dZIMChQck6nm3
+I8K`OcD[eWDFI1Bb]6mi=Q0
+R2
+R0
+R3
+R4
+R5
+L0 14462
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_w_downsizer
+R1
+!i10b 1
+!s100 8TkbX[[Ybl;JSVPFgIH@o1
+IYWV`YAMYig]Oc^Nd]lkAm3
+R2
+R0
+R3
+R4
+R5
+L0 2016
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_w_upsizer
+R1
+!i10b 1
+!s100 5aoQm>lVTJY]9l]g?<[`F2
+ITZE_oMd3FcUdIUBN1?7E91
+R2
+R0
+R3
+R4
+R5
+L0 5563
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_dwidth_converter_v2_1_27_w_upsizer_pktfifo
+R1
+!i10b 1
+!s100 Ll00<HH7_=Eeoj5HE[_U31
+In4YIlchOYFCQQQ8a0^>B51
+R2
+R0
+R3
+R4
+R5
+L0 7020
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

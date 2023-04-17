@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axi_emc_v3_0_27
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap axi_emc_v3_0_27 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axi_emc_v3_0_27
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work axi_emc_v3_0_27 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_emc_v3_0_27/.cxl.vhdl.axi_emc_v3_0_27.axi_emc_v3_0_27.nt64.cmf

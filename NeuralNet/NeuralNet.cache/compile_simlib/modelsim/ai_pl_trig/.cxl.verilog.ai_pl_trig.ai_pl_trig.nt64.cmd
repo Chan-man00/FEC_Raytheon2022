@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/ai_pl_trig
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap ai_pl_trig C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/ai_pl_trig
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -work ai_pl_trig -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/ai_pl_trig/.cxl.verilog.ai_pl_trig.ai_pl_trig.nt64.cmf

@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/jtag_axi
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap jtag_axi C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/jtag_axi
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -work jtag_axi -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/jtag_axi/.cxl.verilog.jtag_axi.jtag_axi.nt64.cmf

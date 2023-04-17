@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/ddr4_pl_v1_0_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap ddr4_pl_v1_0_9 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/ddr4_pl_v1_0_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  -L ddr4_pl_v1_0_9 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -sv -svinputport=relaxed -work ddr4_pl_v1_0_9 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/ddr4_pl_v1_0_9/.cxl.systemverilog.ddr4_pl_v1_0_9.ddr4_pl_v1_0_9.nt64.cmf

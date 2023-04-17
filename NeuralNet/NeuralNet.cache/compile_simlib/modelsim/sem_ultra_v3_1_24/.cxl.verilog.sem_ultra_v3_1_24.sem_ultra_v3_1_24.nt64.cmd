@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/sem_ultra_v3_1_24
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap sem_ultra_v3_1_24 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/sem_ultra_v3_1_24
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -work sem_ultra_v3_1_24 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/sem_ultra_v3_1_24/.cxl.verilog.sem_ultra_v3_1_24.sem_ultra_v3_1_24.nt64.cmf

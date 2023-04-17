@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vutil_reduced_logic_v2_0_4_util_reduced_logic
+!s110 1677779102
+!i10b 1
+!s100 nXQD]Ji5Fzo]mZ^9Dkjdn0
+IHZdA`E8:zmZfcLeJHFMGK1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1665757281
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\util_reduced_logic_v2_0\hdl\util_reduced_logic_v2_0_vl_rfs.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\util_reduced_logic_v2_0\hdl\util_reduced_logic_v2_0_vl_rfs.v
+L0 73
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1677779102.000000
+!s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\util_reduced_logic_v2_0\hdl\util_reduced_logic_v2_0_vl_rfs.v|
+!s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|util_reduced_logic_v2_0_4|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/util_reduced_logic_v2_0_4/.cxl.verilog.util_reduced_logic_v2_0_4.util_reduced_logic_v2_0_4.nt64.cmf|
+!i113 1
+o-work util_reduced_logic_v2_0_4
+!s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work util_reduced_logic_v2_0_4
+tCvgOpt 0

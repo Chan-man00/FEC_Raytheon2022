@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../../../../GitHub/FEC_Raytheon2022/NN VHDL/af_relu.vhd" \
+"../../../../../../../../../GitHub/FEC_Raytheon2022/NN VHDL/af_sigmoid.vhd" \
+"../../../../../../../../../GitHub/FEC_Raytheon2022/NN VHDL/af_tanh.vhd" \
+"../../../../../../../../../GitHub/FEC_Raytheon2022/NN VHDL/dense_sigmoid.vhd" \
+"../../../../../../../../../GitHub/FEC_Raytheon2022/NN VHDL/gru.vhd" \
+
+vhdl2008 xil_defaultlib  \
+"../../../../../../../../../GitHub/FEC_Raytheon2022/NN VHDL/basic_nn_tb.vhd" \
+
+# Do not sort compile order
+nosort

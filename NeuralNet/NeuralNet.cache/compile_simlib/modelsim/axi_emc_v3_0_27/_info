@@ -1,0 +1,392 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+Eaxi_emc
+Z1 w1665757245
+Z2 DPx15 axi_emc_v3_0_27 7 emc_pkg 0 22 2j<N7m;:7HJ?=GHbhj0dn2
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx6 unisim 11 vcomponents 0 22 bojz3^U?3nIX?;X7CSzKh3
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z6 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z7 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+Z8 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z9 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z10 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z11 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z12 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_emc_v3_0\hdl\axi_emc_v3_0_vh_rfs.vhd
+Z13 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_emc_v3_0\hdl\axi_emc_v3_0_vh_rfs.vhd
+l0
+L3428
+V9[>iWmTo0MHhV:3>dg9R]2
+!s100 ?2WGJc]N1a^RF6A`P7UVL3
+Z14 OV;C;10.5b;63
+31
+Z15 !s110 1677779544
+!i10b 1
+Z16 !s108 1677779542.000000
+Z17 !s90 -93|-work|axi_emc_v3_0_27|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_emc_v3_0_27/.cxl.vhdl.axi_emc_v3_0_27.axi_emc_v3_0_27.nt64.cmf|
+Z18 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_emc_v3_0\hdl\axi_emc_v3_0_vh_rfs.vhd|
+!i113 1
+Z19 o-93 -work axi_emc_v3_0_27
+Z20 tExplicit 1 CvgOpt 0
+Aimp
+DEx15 axi_emc_v3_0_27 15 startup_wrapper 0 22 MlGA7@EC;VlYPi=RCUFZR1
+DEx17 emc_common_v3_0_5 3 emc 0 22 Ic<gIP08j]XOnPbkTB0Kl0
+DEx15 axi_emc_v3_0_27 24 axi_emc_native_interface 0 22 ;4XGDckeQPKaGlJWWR9UV1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 7 axi_emc 0 22 9[>iWmTo0MHhV:3>dg9R]2
+l4225
+L3738
+VXaK631f<Bh64?Bb9ad7PT1
+!s100 94[Po<Cl2YKdG2InN;70=2
+R14
+31
+!s110 1677779545
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Eaxi_emc_addr_gen
+R1
+R6
+R7
+R3
+R9
+R5
+R10
+R11
+R0
+R12
+R13
+l0
+L586
+Vc@BP=o`i^4;KBFSF6`mFe1
+!s100 _e4kLfn4D]EFX9hW]kN;m3
+R14
+31
+Z21 !s110 1677779542
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Aimp
+R6
+R7
+R3
+R9
+R5
+R10
+R11
+DEx4 work 16 axi_emc_addr_gen 0 22 c@BP=o`i^4;KBFSF6`mFe1
+l654
+L614
+VG_O03EoFIF7=Y;GeD<MAQ0
+!s100 @PZF6PQHlb42jOCTFcPz02
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Eaxi_emc_address_decode
+R1
+R2
+R6
+R7
+R3
+R9
+R5
+R10
+R11
+R0
+R12
+R13
+l0
+L1197
+VMzoF?@oR8Y5kiGSHN>CQd3
+!s100 GA;Wk0kjA[8VNZ0X7FQ^61
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Aimp
+DEx15 axi_emc_v3_0_27 9 pselect_f 0 22 KV6=@l>`HF1zAfgeQa1a81
+R2
+R6
+R7
+R3
+R9
+R5
+R10
+R11
+DEx4 work 22 axi_emc_address_decode 0 22 MzoF?@oR8Y5kiGSHN>CQd3
+l1444
+L1250
+V5WUehdeNOOH5WWSA?cnnR2
+!s100 mV4_nYgUOFkFU:Ge=Y7PJ3
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Eaxi_emc_native_interface
+R1
+R2
+R3
+R9
+R5
+R6
+R7
+R10
+R11
+R0
+R12
+R13
+l0
+L1704
+V;4XGDckeQPKaGlJWWR9UV1
+!s100 T15WA=l@d<VBJnFG;zk^]3
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Aimp
+DEx15 axi_emc_v3_0_27 9 counter_f 0 22 10l2JnC:hT?0zzKUNNQ?43
+DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 [AUAFNJW:`2SG<Ko:5ggg3
+DEx19 lib_srl_fifo_v1_0_2 14 srl_fifo_rbu_f 0 22 Xj:D`LO9e[BkI]3_<h<eU2
+DEx15 axi_emc_v3_0_27 22 axi_emc_address_decode 0 22 MzoF?@oR8Y5kiGSHN>CQd3
+DEx15 axi_emc_v3_0_27 16 axi_emc_addr_gen 0 22 c@BP=o`i^4;KBFSF6`mFe1
+R2
+R3
+R9
+R5
+R6
+R7
+R10
+R11
+DEx4 work 24 axi_emc_native_interface 0 22 ;4XGDckeQPKaGlJWWR9UV1
+l2054
+L1827
+V=kCiQZE`WaQ8ZQ>[mKnd>1
+!s100 U^;0bSP0KhZ0KaU4Cj_Ti2
+R14
+31
+Z22 !s110 1677779543
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Ecounter_f
+R1
+R3
+R10
+R11
+R0
+R12
+R13
+l0
+L219
+V10l2JnC:hT?0zzKUNNQ?43
+!s100 oTX_mPKYha:S]Y1I2_]2;1
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Aimp
+R3
+R10
+R11
+DEx4 work 9 counter_f 0 22 10l2JnC:hT?0zzKUNNQ?43
+l246
+L241
+VhOKhYQ60^GfL2ZP3G3V6?3
+!s100 [59XPJia4Mc1hT?A?a[;I2
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Pemc_pkg
+R5
+R9
+R10
+R11
+R1
+R0
+R12
+R13
+l0
+L9
+V2j<N7m;:7HJ?=GHbhj0dn2
+!s100 WY5QQ_f=O7kbX`_0:@K6]1
+R14
+31
+b1
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Bbody
+DPx4 work 7 emc_pkg 0 22 2j<N7m;:7HJ?=GHbhj0dn2
+R5
+R9
+R10
+R11
+l0
+L23
+VmLPbj`^m8d[Uk0@U<96ZR2
+!s100 _7_`Q2KjSfQBM3<`j56X70
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Epselect_f
+R1
+R10
+R11
+R0
+R12
+R13
+l0
+L413
+VKV6=@l>`HF1zAfgeQa1a81
+!s100 jXHEVa2BF[X>D7=oegFKP2
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Aimp
+R10
+R11
+DEx4 work 9 pselect_f 0 22 KV6=@l>`HF1zAfgeQa1a81
+l441
+L433
+V3nzi:2Ti43G4;Ub@9KCzT1
+!s100 HWXOH3:1fn_V0:nj:B6LD1
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Estartup_wrapper
+R1
+R3
+R4
+R10
+R11
+R0
+R12
+R13
+l0
+L3104
+VMlGA7@EC;VlYPi=RCUFZR1
+!s100 5ROWS_8HnnmN?CmzZ4Si:0
+R14
+31
+R22
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20
+Astartup_arch
+R3
+R4
+R10
+R11
+DEx4 work 15 startup_wrapper 0 22 MlGA7@EC;VlYPi=RCUFZR1
+l3140
+L3135
+Vd5k7F:0:C@FaW6R96Rdk30
+!s100 Ab1B@K[8@74>3f@a[TSB00
+R14
+31
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R19
+R20

@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axis_data_fifo_v2_0_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap axis_data_fifo_v2_0_9 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axis_data_fifo_v2_0_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -work axis_data_fifo_v2_0_9 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axis_data_fifo_v2_0_9/.cxl.verilog.axis_data_fifo_v2_0_9.axis_data_fifo_v2_0_9.nt64.cmf

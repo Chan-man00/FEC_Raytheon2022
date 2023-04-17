@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axi_lite_ipif_v3_0_4
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap axi_lite_ipif_v3_0_4 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axi_lite_ipif_v3_0_4
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work axi_lite_ipif_v3_0_4 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_lite_ipif_v3_0_4/.cxl.vhdl.axi_lite_ipif_v3_0_4.axi_lite_ipif_v3_0_4.nt64.cmf

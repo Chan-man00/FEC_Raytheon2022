@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/jesd204c_v4_2_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap jesd204c_v4_2_9 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/jesd204c_v4_2_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -work jesd204c_v4_2_9 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/jesd204c_v4_2_9/.cxl.verilog.jesd204c_v4_2_9.jesd204c_v4_2_9.nt64.cmf

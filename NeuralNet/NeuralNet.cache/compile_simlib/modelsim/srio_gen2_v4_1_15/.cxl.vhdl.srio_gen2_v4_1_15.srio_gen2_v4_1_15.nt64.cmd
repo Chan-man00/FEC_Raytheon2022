@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/srio_gen2_v4_1_15
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap srio_gen2_v4_1_15 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/srio_gen2_v4_1_15
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work srio_gen2_v4_1_15 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/srio_gen2_v4_1_15/.cxl.vhdl.srio_gen2_v4_1_15.srio_gen2_v4_1_15.nt64.cmf

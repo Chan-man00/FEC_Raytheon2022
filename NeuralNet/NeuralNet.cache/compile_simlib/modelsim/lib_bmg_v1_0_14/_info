@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+Eblk_mem_gen_wrapper
+Z1 w1665757377
+Z2 DPx3 xpm 11 vcomponents 0 22 m1<cW0nN;MMPYaB0C?UCX0
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\lib_bmg_v1_0\hdl\lib_bmg_v1_0_rfs.vhd
+Z6 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\lib_bmg_v1_0\hdl\lib_bmg_v1_0_rfs.vhd
+l0
+L73
+VLZWXDTGiU@WORO?KT6j6Y1
+!s100 RKkX^>0Q>zJIk8ek2?>XQ0
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1677779557
+!i10b 1
+Z9 !s108 1677779557.000000
+Z10 !s90 -93|-work|lib_bmg_v1_0_14|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/lib_bmg_v1_0_14/.cxl.vhdl.lib_bmg_v1_0_14.lib_bmg_v1_0_14.nt64.cmf|
+Z11 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\lib_bmg_v1_0\hdl\lib_bmg_v1_0_rfs.vhd|
+!i113 1
+Z12 o-93 -work lib_bmg_v1_0_14
+Z13 tExplicit 1 CvgOpt 0
+Aimplementation
+DPx7 verilog 8 vl_types 0 22 bmGnzhS4n>6F^Dki9hX>O3
+DEx18 blk_mem_gen_v8_4_5 18 blk_mem_gen_v8_4_5 0 22 Dg1SIo80bB@j0V0VzS_@n1
+R2
+R3
+R4
+DEx4 work 19 blk_mem_gen_wrapper 0 22 LZWXDTGiU@WORO?KT6j6Y1
+l290
+L196
+Vhah]8dl=7B[[X=eFbmVYz3
+!s100 CKcKz0=E[>[<GE3f3V>Od2
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13

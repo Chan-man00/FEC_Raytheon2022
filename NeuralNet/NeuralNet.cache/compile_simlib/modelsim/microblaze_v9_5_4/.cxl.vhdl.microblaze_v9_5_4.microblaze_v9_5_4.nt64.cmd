@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/microblaze_v9_5_4
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap microblaze_v9_5_4 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/microblaze_v9_5_4
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work microblaze_v9_5_4 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/microblaze_v9_5_4/.cxl.vhdl.microblaze_v9_5_4.microblaze_v9_5_4.nt64.cmf

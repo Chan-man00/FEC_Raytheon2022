@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vOtJ0gAfqbAZgIJs2QF9xVCvZE3/iqgd9FBX23K4vKnQ=
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1677779252
+!i10b 0
+!s100 =lGY6n[WWV9VJ3boO10@?3
+I5P0:o_T[=V9:mLk<Cn5Cb0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 2011908064
+Z4 !s105 xdfe_resampler_v1_0_rfs_sv_unit
+S1
+R0
+Z5 w1677779252
+Z6 8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/xdfe_resampler_v1_0/hdl/xdfe_resampler_v1_0_rfs.sv
+Z7 FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/xdfe_resampler_v1_0/hdl/xdfe_resampler_v1_0_rfs.sv
+Z8 L0 87
+Z9 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z10 !s108 1677779252.000000
+Z11 !s107 C:/Xilinx/Vivado/2022.2/data/ip/xilinx/xdfe_resampler_v1_0/hdl/xdfe_resampler_v1_0_rfs.sv|
+Z12 !s90 -L|xdfe_resampler_v1_0_5|+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-sv|-svinputport=relaxed|-work|xdfe_resampler_v1_0_5|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/xdfe_resampler_v1_0_5/.cxl.systemverilog.xdfe_resampler_v1_0_5.xdfe_resampler_v1_0_5.nt64.cmf|
+!i113 1
+Z13 o-L xdfe_resampler_v1_0_5 -sv -svinputport=relaxed -work xdfe_resampler_v1_0_5
+Z14 !s92 -L xdfe_resampler_v1_0_5 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -sv -svinputport=relaxed -work xdfe_resampler_v1_0_5
+Z15 tCvgOpt 0
+na68fc75
+v9yU9zhnCDIStD9r8PDddJ8elIhR1aoTFxsXtP01t28B4QDW7GmzgsYCReaR+xJvO
+R1
+R2
+!i10b 0
+!s100 WB8fFn?l=^C3J^l>8HlQH0
+IKC97RBlL9c8QXNC>z_^A02
+R3
+!i8a 229037632
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+n24508be
+vt34mBOAFcqRBlgGf0/rcB8N5XoNjiiJn4V8rYUOIygQ=
+R1
+R2
+!i10b 0
+!s100 nj1E2UhXU0oc8IMzoj]TZ1
+IHa>31C6?`OfT>L]b23kdz3
+R3
+!i8a 1892972256
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+n713400f

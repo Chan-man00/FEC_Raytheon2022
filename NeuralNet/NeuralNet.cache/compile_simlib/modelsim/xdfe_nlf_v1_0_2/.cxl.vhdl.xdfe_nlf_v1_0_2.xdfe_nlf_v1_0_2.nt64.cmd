@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/xdfe_nlf_v1_0_2
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap xdfe_nlf_v1_0_2 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/xdfe_nlf_v1_0_2
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work xdfe_nlf_v1_0_2 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/xdfe_nlf_v1_0_2/.cxl.vhdl.xdfe_nlf_v1_0_2.xdfe_nlf_v1_0_2.nt64.cmf

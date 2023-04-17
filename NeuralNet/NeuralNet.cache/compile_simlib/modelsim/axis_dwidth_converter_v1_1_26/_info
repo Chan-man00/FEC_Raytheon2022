@@ -1,0 +1,79 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxis_dwidth_converter_v1_1_26_axis_dwidth_converter
+Z1 !s110 1677779395
+!i10b 1
+!s100 ;ZG:;5V@i@7cagW6kV<gM0
+Idi=4CMb2k`>ho56Mb`Ooo0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757541
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_dwidth_converter_v1_1\hdl\axis_dwidth_converter_v1_1_vl_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_dwidth_converter_v1_1\hdl\axis_dwidth_converter_v1_1_vl_rfs.v
+Z6 FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh
+L0 810
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1677779395.000000
+Z9 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_dwidth_converter_v1_1\hdl\axis_dwidth_converter_v1_1_vl_rfs.v|
+Z10 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axis_dwidth_converter_v1_1_26|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axis_dwidth_converter_v1_1_26/.cxl.verilog.axis_dwidth_converter_v1_1_26.axis_dwidth_converter_v1_1_26.nt64.cmf|
+!i113 1
+Z11 o-work axis_dwidth_converter_v1_1_26
+Z12 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axis_dwidth_converter_v1_1_26
+Z13 tCvgOpt 0
+vaxis_dwidth_converter_v1_1_26_axisc_downsizer
+R1
+!i10b 1
+!s100 _lfkG3n]GSdn<1Do62DL03
+Io@TjDC0UIJHeKVA3LT2V@3
+R2
+R0
+R3
+R4
+R5
+R6
+L0 62
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vaxis_dwidth_converter_v1_1_26_axisc_upsizer
+R1
+!i10b 1
+!s100 >9AgH0d>Ig0c>e26`Ob3g0
+I9M1B9D>]=PWDgIZn7Nne`2
+R2
+R0
+R3
+R4
+R5
+R6
+L0 437
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13

@@ -1,0 +1,341 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxi_register_slice_v2_1_27_auto_dest
+Z1 !s110 1677779470
+!i10b 1
+!s100 nmVdR7kndeFo;@Q_Dol8M2
+I4dlkR5M0T6=>Cd2RKcNUk0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757531
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_register_slice_v2_1\hdl\axi_register_slice_v2_1_vl_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_register_slice_v2_1\hdl\axi_register_slice_v2_1_vl_rfs.v
+L0 1308
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677779470.000000
+Z8 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axi_infrastructure_v1_1_0.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_register_slice_v2_1\hdl\axi_register_slice_v2_1_vl_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axi_register_slice_v2_1_27|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_register_slice_v2_1_27/.cxl.verilog.axi_register_slice_v2_1_27.axi_register_slice_v2_1_27.nt64.cmf|
+!i113 1
+Z10 o-work axi_register_slice_v2_1_27
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axi_register_slice_v2_1_27
+Z12 tCvgOpt 0
+vaxi_register_slice_v2_1_27_auto_slr
+R1
+!i10b 1
+!s100 iZgEKEo:Bo2;@dAY6jN[H0
+Ia]mfAP^MNgCf8bU<mjZMj1
+R2
+R0
+R3
+R4
+R5
+L0 1135
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_auto_src
+R1
+!i10b 1
+!s100 j64ZB?CfEmMHSg0Ef`dGe2
+I>n]Y`J=7aU@6jTF^URD]<3
+R2
+R0
+R3
+R4
+R5
+L0 1223
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_axi_register_slice
+R1
+!i10b 1
+!s100 U7eULm8bWSinnPE6NQMZ:1
+IWj<YDTlNDdOg4;?Bk6o1k2
+R2
+R0
+R3
+R4
+R5
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axi_infrastructure_v1_1_0.vh
+L0 3726
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_axic_reg_srl_fifo
+R1
+!i10b 1
+!s100 a9nHb=`?C>DTjmzUYK_T41
+If;FiGSLzX<8NXmQ;JTY<82
+R2
+R0
+R3
+R4
+R5
+L0 3442
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_axic_register_slice
+R1
+!i10b 1
+!s100 PlN1E@GMHn3>YfjADzdlz2
+I?EnHHW6^CJVO0WWL>n@^<1
+R2
+R0
+R3
+R4
+R5
+L0 1498
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_dest_region_slr
+R1
+!i10b 1
+!s100 :ci[NW3CY:0mOgeI8W0J@0
+I4?DDI?JXWP_?`@?Zj=om`3
+R2
+R0
+R3
+R4
+R5
+L0 3038
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_middle_region_slr
+R1
+!i10b 1
+!s100 SX47X<m_GBEInT@]6N2SY1
+IOR7U2>`hg<0=@1T<N6TS^0
+R2
+R0
+R3
+R4
+R5
+L0 2713
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_multi_slr
+R1
+!i10b 1
+!s100 d_<BT5<Co0CTCK229dB2>3
+IPQOMONdBCQ=h<UUTcz05d0
+R2
+R0
+R3
+R4
+R5
+L0 2201
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_single_slr
+R1
+!i10b 1
+!s100 KCToF4E13UoK8P37Hc:O03
+IFzCLf[B^T5b1CNj9E:HI43
+R2
+R0
+R3
+R4
+R5
+L0 3280
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_source_region_slr
+R1
+!i10b 1
+!s100 DDIoc=kmf[]`>i7S7[`A01
+ImTLiVPTVCb[M1Jc3_iC@72
+R2
+R0
+R3
+R4
+R5
+L0 2854
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_srl_rtl
+R1
+!i10b 1
+!s100 ZZ_O`dQ]dG:]R?^U`cO8D2
+IGlilQQ9j9oNPElTOoW<:z0
+R2
+R0
+R3
+R4
+R5
+L0 1474
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_tdm_sample
+R1
+!i10b 1
+!s100 ULA:O^]<GOaa?7m0J@`[=2
+IZ;dhWVD]QH?Oz[jl_QMPG1
+R2
+R0
+R3
+R4
+R5
+L0 1031
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_test_master
+R1
+!i10b 1
+!s100 mYHK:b5ZI]]nYP3Wl=Z8>1
+IT_:X6d4zTcGO?[W^507E@3
+R2
+R0
+R3
+R4
+R5
+L0 50
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_register_slice_v2_1_27_test_slave
+R1
+!i10b 1
+!s100 >5TYB2aL8[bho=XD9?b@l2
+I3E56]<]>T>M^KGne2Unko3
+R2
+R0
+R3
+R4
+R5
+L0 572
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

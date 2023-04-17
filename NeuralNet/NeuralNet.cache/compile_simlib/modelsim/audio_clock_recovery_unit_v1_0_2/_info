@@ -1,0 +1,85 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaudio_clock_recovery_unit_v1_0_2
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1677777543
+!i10b 1
+!s100 2e2;4N[][A<B4^@WEOdUZ1
+I`lG19IB>SFU9ZKi3zRjkg1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 audio_clock_recovery_unit_v1_0_rfs_sv_unit
+S1
+R0
+Z5 w1665757365
+Z6 8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/audio_clock_recovery_unit_v1_0/hdl/audio_clock_recovery_unit_v1_0_rfs.sv
+Z7 FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/audio_clock_recovery_unit_v1_0/hdl/audio_clock_recovery_unit_v1_0_rfs.sv
+L0 1215
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1677777543.000000
+Z10 !s107 C:/Xilinx/Vivado/2022.2/data/ip/xilinx/audio_clock_recovery_unit_v1_0/hdl/audio_clock_recovery_unit_v1_0_rfs.sv|
+Z11 !s90 -L|audio_clock_recovery_unit_v1_0_2|+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-sv|-svinputport=relaxed|-work|audio_clock_recovery_unit_v1_0_2|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/audio_clock_recovery_unit_v1_0_2/.cxl.systemverilog.audio_clock_recovery_unit_v1_0_2.audio_clock_recovery_unit_v1_0_2.nt64.cmf|
+!i113 1
+Z12 o-L audio_clock_recovery_unit_v1_0_2 -sv -svinputport=relaxed -work audio_clock_recovery_unit_v1_0_2
+Z13 !s92 -L audio_clock_recovery_unit_v1_0_2 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -sv -svinputport=relaxed -work audio_clock_recovery_unit_v1_0_2
+Z14 tCvgOpt 0
+vaudio_clock_recovery_unit_v1_0_2_axi
+R1
+R2
+!i10b 1
+!s100 1PZATjK:g8oFe;Geno>Y[3
+Ime6RjQmPO_GbLVV>Z]VAP1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 4
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vaudio_clock_recovery_unit_v1_0_2_sys
+R1
+R2
+!i10b 1
+!s100 _;V2:5@=W<a4G2>0V90;c3
+I0`V1>L3CEIi^N9Ii96[aT0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 517
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14

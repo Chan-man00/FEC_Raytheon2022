@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/18019/Documents/GitHub/FEC_Raytheon2022/NN VHDL/af_relu.vhd,1675702703,vhdl,,,,af_relu,,,,,,,,
+C:/Users/18019/Documents/GitHub/FEC_Raytheon2022/NN VHDL/af_sigmoid.vhd,1679586942,vhdl,,,,af_sigmoid,,,,,,,,
+C:/Users/18019/Documents/GitHub/FEC_Raytheon2022/NN VHDL/af_tanh.vhd,1679586942,vhdl,,,,af_tanh,,,,,,,,
+C:/Users/18019/Documents/GitHub/FEC_Raytheon2022/NN VHDL/basic_nn_tb.vhd,1679587699,vhdl2008,,,,basic_nn_tb,,,,,,,,
+C:/Users/18019/Documents/GitHub/FEC_Raytheon2022/NN VHDL/dense_sigmoid.vhd,1679586942,vhdl,,,,dense_sigmoid,,,,,,,,
+C:/Users/18019/Documents/GitHub/FEC_Raytheon2022/NN VHDL/gru.vhd,1679586942,vhdl,,,,gru,,,,,,,,
+C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.gen/sources_1/ip/inFIFO/sim/inFIFO.v,1677774671,verilog,C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.srcs/sources_1/new/tb_FIFO.vhd,,,\inFIFO\,,,,,,,,
+C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.srcs/sources_1/new/tb_FIFO.vhd,1677774346,vhdl,,,,tb_fifo,,,,,,,,

@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+voE1P9v7Bkv9o4n5oJaEpjzXKBokL9JO5PvM68e7zYTo=
+Z1 !s110 1677779961
+!i10b 1
+!s100 M;e@HJ@AoI?=HZ6mf^F_^2
+IQ:o]>foVzWVIF_5OWn7[F0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 1299715600
+R0
+w1665757250
+Z3 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\bs_switch_v1_0\hdl\bs_switch_v1_0_vl_rfs.v
+Z4 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\bs_switch_v1_0\hdl\bs_switch_v1_0_vl_rfs.v
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/bs_switch_v1_0_1_bs_ext.vh
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/bs_switch_v1_0_1_bs.vh
+Z5 L0 87
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677779961.000000
+Z8 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/bs_switch_v1_0_1_bs.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/bs_switch_v1_0_1_bs_ext.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/bs_switch_v1_0_1_in.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\bs_switch_v1_0\hdl\bs_switch_v1_0_vl_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|bs_switch_v1_0_1|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/bs_switch_v1_0_1/.cxl.verilog.bs_switch_v1_0_1.bs_switch_v1_0_1.nt64.cmf|
+!i113 1
+Z10 o-work bs_switch_v1_0_1
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work bs_switch_v1_0_1
+Z12 tCvgOpt 0
+n472238
+v3dTwM1n2sW6DUMjymQlb4ueSNV9Cue7iVS/eR8m3kEM=
+R1
+!i10b 0
+!s100 W25No:5ofRYo6iQeJY<MK2
+I@mi@;z7[ZLAJ:QE0gWG601
+R2
+!i8a 414784400
+R0
+w1677779961
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+neb297e5

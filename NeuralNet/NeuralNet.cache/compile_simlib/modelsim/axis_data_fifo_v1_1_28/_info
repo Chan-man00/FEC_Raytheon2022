@@ -1,0 +1,33 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxis_data_fifo_v1_1_28_axis_data_fifo
+!s110 1677779392
+!i10b 1
+!s100 DScmlZTlI8PVSYGEW5k_`3
+I^5_g9Ti`_jhkkaS@LQ2DC2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1665757541
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_data_fifo_v1_1\hdl\axis_data_fifo_v1_1_vl_rfs.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_data_fifo_v1_1\hdl\axis_data_fifo_v1_1_vl_rfs.v
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh
+L0 62
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1677779392.000000
+!s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_data_fifo_v1_1\hdl\axis_data_fifo_v1_1_vl_rfs.v|
+!s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axis_data_fifo_v1_1_28|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axis_data_fifo_v1_1_28/.cxl.verilog.axis_data_fifo_v1_1_28.axis_data_fifo_v1_1_28.nt64.cmf|
+!i113 1
+o-work axis_data_fifo_v1_1_28
+!s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axis_data_fifo_v1_1_28
+tCvgOpt 0

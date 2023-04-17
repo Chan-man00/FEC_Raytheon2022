@@ -1,0 +1,280 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vTedOA7uTBYQdw7ig/qMq37qxfZsEJwUG0t02Rz5zQjM=
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1677780471
+!i10b 0
+!s100 [4O>hGLSiaXH<^YUml3Cc0
+IacnHoWKg>Q2IW;zZdEno<1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 2130988432
+Z4 !s105 xdfe_equalizer_v1_0_rfs_sv_unit
+S1
+R0
+Z5 w1677780471
+Z6 8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/xdfe_equalizer_v1_0/hdl/xdfe_equalizer_v1_0_rfs.sv
+Z7 FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/xdfe_equalizer_v1_0/hdl/xdfe_equalizer_v1_0_rfs.sv
+Z8 L0 87
+Z9 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z10 !s108 1677780470.000000
+Z11 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/xdfe_common_v1_0_0_defs.vh|C:/Xilinx/Vivado/2022.2/data/ip/xilinx/xdfe_equalizer_v1_0/hdl/xdfe_equalizer_v1_0_rfs.sv|
+Z12 !s90 -L|xdfe_common_v1_0_0|-L|xdfe_equalizer_v1_0_5|+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-sv|-svinputport=relaxed|-work|xdfe_equalizer_v1_0_5|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/xdfe_equalizer_v1_0_5/.cxl.systemverilog.xdfe_equalizer_v1_0_5.xdfe_equalizer_v1_0_5.nt64.cmf|
+!i113 1
+Z13 o-L xdfe_common_v1_0_0 -L xdfe_equalizer_v1_0_5 -sv -svinputport=relaxed -work xdfe_equalizer_v1_0_5
+Z14 !s92 -L xdfe_common_v1_0_0 -L xdfe_equalizer_v1_0_5 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -sv -svinputport=relaxed -work xdfe_equalizer_v1_0_5
+Z15 tCvgOpt 0
+na31a055
+v39rAO/QNnVUzhe8EMw4hEFMbmcpJO0YaEncqK4x2y5cWlb2BODEv2pru0Fvasi27
+R1
+R2
+!i10b 0
+!s100 mMzEoU]1L80>2VzeR90Hn1
+IG1e9ZaX8AJ6YBSmS7WYRk3
+R3
+!i8a 1781354048
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+n9001c63
+vCPG28saypZF3lZgWATaWvIXLrcqQFbNaio0d8QwWpxs=
+R1
+R2
+!i10b 0
+!s100 @IoX7m[n1WHd5I>EI6;Ck1
+IV^:_o6JCjnL?@PMdKPhi`1
+R3
+!i8a 1624956992
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+na05ea3c
+vbbUJxXuMfadX2jCByo1d3FuTD4ML/6wL/+BlrQBs8NQ=
+R1
+R2
+!i10b 0
+!s100 0b`3F_JX7eW[E8EjY^7Y=0
+IWgYGfl9>GfMk]P@KLlnbM2
+R3
+!i8a 223944656
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+n16b22d9
+vb++tXhhH2QDwiM8R2SAjWORQPiHMG4VMjmZCLTcNIww=
+R1
+R2
+!i10b 0
+!s100 0Z6Ji@id_kB5_gEX=NQJ]2
+IFQ5H1BYQ0COgQ^fdAEV6T1
+R3
+!i8a 190591680
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+n16ff794
+vXCXjscIelTXWduxTTVMUm58OViqq6vZPTDK7+E+FTkg=
+R1
+R2
+!i10b 0
+!s100 2?Hjk5;F1<3lllMAoCDjb1
+IOUiBSKzJ>b3nV[II`<3XF1
+R3
+!i8a 1077947328
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+n776b2d4
+vy2dw1/6mBmLx0EYJtfxGhhJeEmkv4ebobH74IwmCcKTiTPusE3YoKE0bAWa11XsI
+R1
+R2
+!i10b 0
+!s100 MBBMhSRS525Zh0jKE1W:]2
+IXDH0<Jo8IfD9fMj9ReJB73
+R3
+!i8a 1824640672
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+nbe1475
+XqNw6oLEUCGZxZaHvT7xryXcyj+Ug6WDkqpUqyEeRaDg=
+R1
+R2
+!i10b 0
+!s100 W:^3`1CaOdBi28YE]PK:20
+I5@[2kIBBnd:oKX<b;A4ce1
+V5@[2kIBBnd:oKX<b;A4ce1
+!i8a 1941669248
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+n91d3847
+viSvmgSDnRwe3sO7u2/BwfyjsrQBI+cwnGEhpf0qHCKw=
+R1
+DXx4 work 29 xdfe_equalizer_v1_0_5_reg_pkg 0 22 5@[2kIBBnd:oKX<b;A4ce1
+R2
+!i10b 0
+!s100 ^7[a2P5N`ND;SAO2<1zK41
+I`c3l]UG5o4c:Zfo3TDB]K2
+R3
+!i8a 1517292272
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+ne5bf583
+vKVOzWsKgYkCxZjkqfckY9CLjPaumDmmdpPa8OzLcBVFTe+g/Wu7gVBI16lA4HnNd
+R1
+R2
+!i10b 0
+!s100 YK^GlL[I><Ea2ZgNl[n0H1
+IGAkS5;LM;3<ZBEL8NJ5?O2
+R3
+!i8a 1486208176
+R4
+S1
+R0
+R5
+R6
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+R15
+n9933ad3

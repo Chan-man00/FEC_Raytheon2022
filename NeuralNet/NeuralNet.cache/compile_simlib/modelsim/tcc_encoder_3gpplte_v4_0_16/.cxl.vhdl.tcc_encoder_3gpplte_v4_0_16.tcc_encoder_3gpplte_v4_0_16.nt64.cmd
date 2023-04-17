@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/tcc_encoder_3gpplte_v4_0_16
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap tcc_encoder_3gpplte_v4_0_16 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/tcc_encoder_3gpplte_v4_0_16
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work tcc_encoder_3gpplte_v4_0_16 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/tcc_encoder_3gpplte_v4_0_16/.cxl.vhdl.tcc_encoder_3gpplte_v4_0_16.tcc_encoder_3gpplte_v4_0_16.nt64.cmf

@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxis_clock_converter_v1_1_28_axis_clock_converter
+Z1 !s110 1677779316
+!i10b 1
+!s100 _4nYejBhbA2;6@<<MQkM00
+I?J[6z=gbXgd7gnNNQ;E;E3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757541
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_clock_converter_v1_1\hdl\axis_clock_converter_v1_1_vl_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_clock_converter_v1_1\hdl\axis_clock_converter_v1_1_vl_rfs.v
+Z6 FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh
+L0 925
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1677779316.000000
+Z9 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_clock_converter_v1_1\hdl\axis_clock_converter_v1_1_vl_rfs.v|
+Z10 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axis_clock_converter_v1_1_28|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axis_clock_converter_v1_1_28/.cxl.verilog.axis_clock_converter_v1_1_28.axis_clock_converter_v1_1_28.nt64.cmf|
+!i113 1
+Z11 o-work axis_clock_converter_v1_1_28
+Z12 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axis_clock_converter_v1_1_28
+Z13 tCvgOpt 0
+vaxis_clock_converter_v1_1_28_axisc_async_clock_converter
+R1
+!i10b 1
+!s100 ;oI>=8f9o=<9dfAiF7@OH0
+ITPCPQ>6MRJZ3;1g4J9ekc3
+R2
+R0
+R3
+R4
+R5
+R6
+L0 341
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vaxis_clock_converter_v1_1_28_axisc_sample_cycle_ratio
+R1
+!i10b 1
+!s100 [Fe<mUEm;18IUh[ocjWDL1
+I>L]3RK08=9>4TF1STd:7J2
+R2
+R0
+R3
+R4
+R5
+L0 774
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vaxis_clock_converter_v1_1_28_axisc_sync_clock_converter
+R1
+!i10b 1
+!s100 ^ecoSK1WRRCS_c9FJbV`<1
+In^=>>QN9hkPh0L6cegzfS1
+R2
+R0
+R3
+R4
+R5
+L0 63
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13

@@ -1,0 +1,4 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/secureip
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap secureip C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/secureip
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog -source -work secureip -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/secureip/.cxl.verilog.secureip.secureip.nt64.cmf
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog -source -sv -svinputport=relaxed -suppress vlog-2583 -work secureip -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/secureip/.cxl.systemverilog.secureip.secureip.nt64.cmf

@@ -1,0 +1,341 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxis_register_slice_v1_1_27_auto_dest
+Z1 !s110 1677779310
+!i10b 1
+!s100 GO;CY@aTXZ>NMV^0`FU:z3
+I[b7N2FJ[cHh`oXL94CzRZ2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757542
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_register_slice_v1_1\hdl\axis_register_slice_v1_1_vl_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_register_slice_v1_1\hdl\axis_register_slice_v1_1_vl_rfs.v
+L0 1769
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677779310.000000
+Z8 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_register_slice_v1_1\hdl\axis_register_slice_v1_1_vl_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axis_register_slice_v1_1_27|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axis_register_slice_v1_1_27/.cxl.verilog.axis_register_slice_v1_1_27.axis_register_slice_v1_1_27.nt64.cmf|
+!i113 1
+Z10 o-work axis_register_slice_v1_1_27
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axis_register_slice_v1_1_27
+Z12 tCvgOpt 0
+vaxis_register_slice_v1_1_27_auto_slr
+R1
+!i10b 1
+!s100 0KnXCK6z8@25B69`icJ@=2
+IfEV4LfIFc`QbB]55<OWUj3
+R2
+R0
+R3
+R4
+R5
+L0 1592
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_auto_src
+R1
+!i10b 1
+!s100 Df:ORAEAaATU7N;>>>`QQ2
+IEcGYgN8_]]4IlcDj;>@CM3
+R2
+R0
+R3
+R4
+R5
+L0 1683
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_axic_reg_srl_fifo
+R1
+!i10b 1
+!s100 B@HWfH6Y02b9Ygzkn3PF:1
+I@U8ZEX^kgeDb5PPD_>=zO1
+R2
+R0
+R3
+R4
+R5
+L0 1297
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_axis_register_slice
+R1
+!i10b 1
+!s100 ;@kh<<Q_A5W<^Q:];1hD_3
+IlQc=m73j4L[RCz]mo56oj1
+R2
+R0
+R3
+R4
+R5
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh
+L0 2838
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_axisc_register_slice
+R1
+!i10b 1
+!s100 f:S0:WTfXg6hFiUk?A8YF1
+IoXRTQTjBmnSJXO=l5;>bX3
+R2
+R0
+R3
+R4
+R5
+L0 1936
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_dest_region_slr
+R1
+!i10b 1
+!s100 Xa4nTcka_g9jG<NPH^E5X2
+IEf_Q6KQ>O`oGQN9l97RcR0
+R2
+R0
+R3
+R4
+R5
+L0 933
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_middle_region_slr
+R1
+!i10b 1
+!s100 ]WQdiEfJHRJE<C;c>G7GR2
+IYe]^aTVei3GmgjYSVa50<3
+R2
+R0
+R3
+R4
+R5
+L0 629
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_multi_slr
+R1
+!i10b 1
+!s100 dD2[ghLogg@:FY@nd>`7J1
+InMi_Y<H`3IW7@d15=adQ_0
+R2
+R0
+R3
+R4
+R5
+L0 348
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_single_slr
+R1
+!i10b 1
+!s100 Cm8d7VGYhcMTR9]JMOh0@2
+I[LOEh_4g3oQizn8ESWa^[1
+R2
+R0
+R3
+R4
+R5
+L0 1136
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_source_region_slr
+R1
+!i10b 1
+!s100 G@Xl5J2AKDKi7FB>m9b?;3
+I69eS6IY4V=F<KN@Q>`l2j3
+R2
+R0
+R3
+R4
+R5
+L0 758
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_srl_rtl
+R1
+!i10b 1
+!s100 LhWi6ECPY?<1RW2^R45@^1
+I2YB4QmXMBB1o58kHFIE7D3
+R2
+R0
+R3
+R4
+R5
+L0 1519
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_tdm_sample
+R1
+!i10b 1
+!s100 n`J<n]EGdnSSEFPa28K1`3
+IHgR6n4^M[BOE[Zd0FhEjX1
+R2
+R0
+R3
+R4
+R5
+L0 51
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_test_master
+R1
+!i10b 1
+!s100 ^1OhlbS0?Y;ML9Ce3kzUh1
+I1ngOM?3CZTgiVhfk4@mzi1
+R2
+R0
+R3
+R4
+R5
+L0 154
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_register_slice_v1_1_27_test_slave
+R1
+!i10b 1
+!s100 1@[z]i@4n1b@8?HfHe2jT3
+IUgnlFn^B>c:KVFBLB@b]B1
+R2
+R0
+R3
+R4
+R5
+L0 245
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

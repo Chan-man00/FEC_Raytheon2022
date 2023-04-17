@@ -1,0 +1,108 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vv_dual_splitter_v1_0_9
+Z1 !s110 1677780393
+!i10b 1
+!s100 10E?6<E[LFkA=zBbbiGY@3
+IkdJ]dzM4XoHZdkZ442Tb]3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757282
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\v_dual_splitter_v1_0\hdl\v_dual_splitter_v1_0_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\v_dual_splitter_v1_0\hdl\v_dual_splitter_v1_0_rfs.v
+L0 352
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677780393.000000
+Z8 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\v_dual_splitter_v1_0\hdl\v_dual_splitter_v1_0_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|v_dual_splitter_v1_0_9|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/v_dual_splitter_v1_0_9/.cxl.verilog.v_dual_splitter_v1_0_9.v_dual_splitter_v1_0_9.nt64.cmf|
+!i113 1
+Z10 o-work v_dual_splitter_v1_0_9
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work v_dual_splitter_v1_0_9
+Z12 tCvgOpt 0
+vv_dual_splitter_v1_0_9_core
+R1
+!i10b 1
+!s100 G[]:9TLmi8mzVMzO:fgDb0
+IPFN`R_@??SF^ig8aQI7@I1
+R2
+R0
+R3
+R4
+R5
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+Evideo_ctrl_wrapper
+R3
+Z13 DPx12 v_tc_v6_1_13 14 video_ctrl_pkg 0 22 G?IX7P9@KBKEJRa9@^G>F0
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z15 DPx12 v_tc_v6_1_13 7 hwt_pkg 0 22 hM==27AQ^dg^1c68aN[G80
+Z16 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z17 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z18 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z19 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z20 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\v_dual_splitter_v1_0\hdl\v_dual_splitter_v1_0_rfs.vhd
+Z21 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\v_dual_splitter_v1_0\hdl\v_dual_splitter_v1_0_rfs.vhd
+l0
+L66
+V3K`Mhn7Ond6DG>Y5_@kJi3
+!s100 :o5;GeCKBH5?z0GKARNd>1
+Z22 OV;C;10.5b;63
+31
+Z23 !s110 1677780390
+!i10b 1
+Z24 !s108 1677780390.000000
+Z25 !s90 -93|-work|v_dual_splitter_v1_0_9|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/v_dual_splitter_v1_0_9/.cxl.vhdl.v_dual_splitter_v1_0_9.v_dual_splitter_v1_0_9.nt64.cmf|
+Z26 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\v_dual_splitter_v1_0\hdl\v_dual_splitter_v1_0_rfs.vhd|
+!i113 1
+Z27 o-93 -work v_dual_splitter_v1_0_9
+Z28 tExplicit 1 CvgOpt 0
+Artl
+DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+DPx20 axi_lite_ipif_v3_0_4 8 ipif_pkg 0 22 zJ]@GWZl6YPP]W9DYEE:f3
+DEx12 v_tc_v6_1_13 10 video_ctrl 0 22 N5aVegTgF4kCS9o2hRljA0
+R13
+R14
+R15
+R16
+R17
+R18
+R19
+DEx4 work 18 video_ctrl_wrapper 0 22 3K`Mhn7Ond6DG>Y5_@kJi3
+l209
+L141
+VM@Mcz2Tnm]lPQkPAXL:A[1
+!s100 9EBLTihX5z>aDfza;V]:63
+R22
+31
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R27
+R28

@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/g709_rs_encoder_v2_2_8
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap g709_rs_encoder_v2_2_8 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/g709_rs_encoder_v2_2_8
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work g709_rs_encoder_v2_2_8 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/g709_rs_encoder_v2_2_8/.cxl.vhdl.g709_rs_encoder_v2_2_8.g709_rs_encoder_v2_2_8.nt64.cmf

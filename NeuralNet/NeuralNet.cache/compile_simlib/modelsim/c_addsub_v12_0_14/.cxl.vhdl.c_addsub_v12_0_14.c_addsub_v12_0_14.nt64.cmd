@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/c_addsub_v12_0_14
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap c_addsub_v12_0_14 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/c_addsub_v12_0_14
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work c_addsub_v12_0_14 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/c_addsub_v12_0_14/.cxl.vhdl.c_addsub_v12_0_14.c_addsub_v12_0_14.nt64.cmf

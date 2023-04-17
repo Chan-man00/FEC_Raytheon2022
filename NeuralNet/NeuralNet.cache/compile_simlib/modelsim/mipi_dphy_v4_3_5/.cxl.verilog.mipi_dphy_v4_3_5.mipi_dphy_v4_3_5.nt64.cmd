@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/mipi_dphy_v4_3_5
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap mipi_dphy_v4_3_5 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/mipi_dphy_v4_3_5
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  -L mipi_dphy_v4_3_5 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -sv -svinputport=relaxed -work mipi_dphy_v4_3_5 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/mipi_dphy_v4_3_5/.cxl.systemverilog.mipi_dphy_v4_3_5.mipi_dphy_v4_3_5.nt64.cmf

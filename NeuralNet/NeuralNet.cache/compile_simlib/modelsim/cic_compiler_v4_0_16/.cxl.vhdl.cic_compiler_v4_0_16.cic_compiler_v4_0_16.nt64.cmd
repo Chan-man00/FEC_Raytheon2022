@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/cic_compiler_v4_0_16
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap cic_compiler_v4_0_16 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/cic_compiler_v4_0_16
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work cic_compiler_v4_0_16 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/cic_compiler_v4_0_16/.cxl.vhdl.cic_compiler_v4_0_16.cic_compiler_v4_0_16.nt64.cmf

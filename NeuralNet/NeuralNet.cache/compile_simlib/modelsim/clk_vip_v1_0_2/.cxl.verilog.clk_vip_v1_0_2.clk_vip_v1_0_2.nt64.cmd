@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/clk_vip_v1_0_2
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap clk_vip_v1_0_2 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/clk_vip_v1_0_2
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  -L clk_vip_v1_0_2 -L xilinx_vip +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -sv -svinputport=relaxed -work clk_vip_v1_0_2 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/clk_vip_v1_0_2/.cxl.systemverilog.clk_vip_v1_0_2.clk_vip_v1_0_2.nt64.cmf

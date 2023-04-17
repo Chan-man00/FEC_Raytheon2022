@@ -1,0 +1,715 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxi_perf_mon_v5_0_29_acc_n_incr
+Z1 !s110 1677777861
+!i10b 1
+!s100 ^8ZaPXn@lhY[N;CViXgBI2
+I[eRS[AV>7K4KcC>]6O[b`2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757367
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_perf_mon_v5_0\hdl\axi_perf_mon_v5_0_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_perf_mon_v5_0\hdl\axi_perf_mon_v5_0_rfs.v
+L0 980
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677777861.000000
+Z8 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_perf_mon_v5_0\hdl\axi_perf_mon_v5_0_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axi_perf_mon_v5_0_29|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_perf_mon_v5_0_29/.cxl.verilog.axi_perf_mon_v5_0_29.axi_perf_mon_v5_0_29.nt64.cmf|
+!i113 1
+Z10 o-work axi_perf_mon_v5_0_29
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axi_perf_mon_v5_0_29
+Z12 tCvgOpt 0
+vaxi_perf_mon_v5_0_29_acc_sample_profile
+R1
+!i10b 1
+!s100 akOiTXQWFeN5J4Y:[b^791
+IOKzG7LMzSSIcdhzaT68SY3
+R2
+R0
+R3
+R4
+R5
+L0 20514
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_advanced
+R1
+!i10b 1
+!s100 COg?:f^1DWXXbIlfaXPdR0
+IGaI9bfPBjE6CibN57FKl_1
+R2
+R0
+R3
+R4
+R5
+L0 13103
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_async_fifo
+R1
+!i10b 1
+!s100 RZboJBkYf_HLH7^bPZD2D3
+IlEDZ7=Km4_H<<8P5]kFUd0
+R2
+R0
+R3
+R4
+R5
+L0 154
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_async_stream_fifo
+R1
+!i10b 1
+!s100 gFWZ@2FFA6o=4eiDnY47^0
+IVP`]dQRG@hfNbGP3RYdfz2
+R2
+R0
+R3
+R4
+R5
+L0 1254
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_axi_interface
+R1
+!i10b 1
+!s100 @EBKQDMmFkiN`mTNl4oZV0
+IUkUFa;fHVb8OM?b^Kh<kY3
+R2
+R0
+R3
+R4
+R5
+L0 2005
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_cdc_sync
+R1
+!i10b 1
+!s100 ZfEX33[Q@7[>Yk[bjm4W@3
+ILM^jlVon>ein09DH<9B6k3
+R2
+R0
+R3
+R4
+R5
+L0 2694
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_counter
+R1
+!i10b 1
+!s100 4cR3::7`DzE`75XeXhnA<0
+IM:[dk9V?7Cd]?UNi1zH1^2
+R2
+R0
+R3
+R4
+R5
+L0 2408
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_counter_ovf
+R1
+!i10b 1
+!s100 6Y_Yi>1Q??Q]DC9`EaXGF1
+IQL=?:A@28oF@lW5n52C^]2
+R2
+R0
+R3
+R4
+R5
+L0 2561
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_dff_async_reset
+R1
+!i10b 1
+!s100 UJmL3CTz9`cG:da?R=5ed2
+I=53CIkUOn=Ih9;VIidYbH2
+R2
+R0
+R3
+R4
+R5
+L0 67
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_ext_calc
+R1
+!i10b 1
+!s100 FGhihjZ];m=2mz=OFmG_C3
+I3INN55`A4k0CfcdLT`n;[2
+R2
+R0
+R3
+R4
+R5
+L0 8976
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_flags_gen
+R1
+!i10b 1
+!s100 IoWkV@c]RUgDW6]Rm`Tdl2
+IiecH16gJ8@;zQL_5_75i]2
+R2
+R0
+R3
+R4
+R5
+L0 3193
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_flags_gen_trace
+Z13 !s110 1677777862
+!i10b 1
+!s100 1Y6JSn]c:MNK61_FBIVVW0
+Id>W[O2eT:C^<UgiL>>LhU3
+R2
+R0
+R3
+R4
+R5
+L0 23850
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_glbl_clk_cnt
+R1
+!i10b 1
+!s100 RF9oO_CQbz]icIj^Bg1Jf0
+IVNTS7@iehdJOcJG89>I`43
+R2
+R0
+R3
+R4
+R5
+L0 3718
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_interrupt_module
+R1
+!i10b 1
+!s100 LF0ZjWNmN@2okY:GmEIzk3
+I?i_CGh?F3R5Tl]7oWgX050
+R2
+R0
+R3
+R4
+R5
+L0 3837
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_intr_sync
+R1
+!i10b 1
+!s100 A_oTV>hZ0Pg01L?CWLm5k3
+I[B382IjE:6nzV]7C<=[632
+R2
+R0
+R3
+R4
+R5
+L0 4000
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_metric_calc
+R1
+!i10b 1
+!s100 2Y[]_`;=kALU<09>k:42N0
+ICUVDUhf0gzlTMQ?Z?n1O@3
+R2
+R0
+R3
+R4
+R5
+L0 4135
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_metric_calc_profile
+R13
+!i10b 1
+!s100 PnlSFUO;9:1^o0_4[TYVP3
+IX3SY6>WPzV]FGm2@Sm72e0
+R2
+R0
+R3
+R4
+R5
+L0 21707
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_metric_counters
+R1
+!i10b 1
+!s100 0ikO[ofSI@h<3GJMWM::b0
+IUDMNYJEinGLbgO_G_;:E82
+R2
+R0
+R3
+R4
+R5
+L0 6200
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_metric_counters_profile
+R13
+!i10b 1
+!s100 HF=o8FW2nfD_LEbi>;QVH1
+IaJXAS^Q^;F32a;:7d@4Li3
+R2
+R0
+R3
+R4
+R5
+L0 23267
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_metric_sel_n_cnt
+R1
+!i10b 1
+!s100 icWn9:n8Cm77gUM[JnAlV3
+I6O;P3bQD2_^YfE3JAON;10
+R2
+R0
+R3
+R4
+R5
+L0 8174
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_mon_fifo
+R1
+!i10b 1
+!s100 39dGWKR6cDkG:EBESP_Ue3
+Ifj_0c?Sl<77GUndJ:k6F>0
+R2
+R0
+R3
+R4
+R5
+L0 8766
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_postTriggerMarker
+R1
+!i10b 1
+!s100 6Y2ZdYK2BNSTb9I7iDYz43
+IE_]=:e6[F00LM`L89ETlY2
+R2
+R0
+R3
+R4
+R5
+L0 12852
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+naxi_perf_mon_v5_0_29_post@trigger@marker
+vaxi_perf_mon_v5_0_29_profile
+R1
+!i10b 1
+!s100 E0j5TUiSl>Dleh7aWU7Bm0
+IeCl3R9Z_OAMe5eP:o0=]41
+R2
+R0
+R3
+R4
+R5
+L0 17237
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_register_module
+R1
+!i10b 1
+!s100 cniDg5b^78097izVAYjfW3
+Ig8@S>EMGUDB0GBe9]mP940
+R2
+R0
+R3
+R4
+R5
+L0 9141
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_register_module_profile
+R13
+!i10b 1
+!s100 LIE=9RjAkEU4cBb]ck9DX1
+ImAcC1zzohH^[2DhCY_zP]2
+R2
+R0
+R3
+R4
+R5
+L0 20683
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_samp_intl_cnt
+R1
+!i10b 1
+!s100 R_h:^`2dngO4@^a@;^0KD3
+I=0E[V4KM8Gn>37Z>3VoV03
+R2
+R0
+R3
+R4
+R5
+L0 11614
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_samp_metrics_data
+R1
+!i10b 1
+!s100 1AdUj2i29XJe`>Y[ZBQlf0
+I5KfFdzMV8EzfQ;CfaZ`az1
+R2
+R0
+R3
+R4
+R5
+L0 11738
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_strm_fifo_wr_logic
+R1
+!i10b 1
+!s100 jmaCI2KZR2^ZoT1i:[ooE1
+Ii]02CTogmn5TGR8VGd<4]1
+R2
+R0
+R3
+R4
+R5
+L0 12183
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_sync_fifo
+R1
+!i10b 1
+!s100 J?Ga[mQ?WYzg1N:Y7>OOP3
+I]zoJP@jSonD_PkRD<de[H0
+R2
+R0
+R3
+R4
+R5
+L0 820
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_throttle
+R1
+!i10b 1
+!s100 :G_Qjli0aUdd4DWXJ?jfd0
+IO2fB<P85ggZUh;0CR2HMd1
+R2
+R0
+R3
+R4
+R5
+L0 12602
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_perf_mon_v5_0_29_top
+R13
+!i10b 1
+!s100 dTYQ4bV`Bkm<17FG9U7<B2
+IfZ6N^>nMYbYY^Oz9Ch>HE1
+R2
+R0
+R3
+R4
+R5
+L0 24424
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

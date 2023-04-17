@@ -1,0 +1,35 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vclk_vip_v1_0_2_top
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1677777905
+!i10b 1
+!s100 X>MO?@2KN2g0AO2D9_=^Y1
+ICHmC]9WKH@mNQ2Gh<NL4W3
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 clk_vip_v1_0_vl_rfs_sv_unit
+S1
+R0
+w1665757251
+8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/clk_vip_v1_0/hdl/clk_vip_v1_0_vl_rfs.sv
+FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/clk_vip_v1_0/hdl/clk_vip_v1_0_vl_rfs.sv
+L0 61
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1677777905.000000
+!s107 C:/Xilinx/Vivado/2022.2/data/ip/xilinx/clk_vip_v1_0/hdl/clk_vip_v1_0_vl_rfs.sv|
+!s90 -L|clk_vip_v1_0_2|-L|xilinx_vip|+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-sv|-svinputport=relaxed|-work|clk_vip_v1_0_2|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/clk_vip_v1_0_2/.cxl.systemverilog.clk_vip_v1_0_2.clk_vip_v1_0_2.nt64.cmf|
+!i113 1
+o-L clk_vip_v1_0_2 -L xilinx_vip -sv -svinputport=relaxed -work clk_vip_v1_0_2
+!s92 -L clk_vip_v1_0_2 -L xilinx_vip {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -sv -svinputport=relaxed -work clk_vip_v1_0_2
+tCvgOpt 0

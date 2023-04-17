@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vai_noc_v1_0_0_ai_noc
+!s110 1677777527
+!i10b 1
+!s100 o]C_dh<V8CiOf<CRPDaLN2
+IlY^z7TPSV56FNoKLRD;dP1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1665757364
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\ai_noc_v1_0\hdl\ai_noc_v1_0_rfs.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\ai_noc_v1_0\hdl\ai_noc_v1_0_rfs.v
+L0 4
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1677777527.000000
+!s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\ai_noc_v1_0\hdl\ai_noc_v1_0_rfs.v|
+!s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|ai_noc|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/ai_noc/.cxl.verilog.ai_noc.ai_noc.nt64.cmf|
+!i113 1
+o-work ai_noc
+!s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work ai_noc
+tCvgOpt 0

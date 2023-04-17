@@ -1,0 +1,106 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vyFs8rP9f83KPENHvGEW1HH3CMi9U1qy2Z+QUthqcfxw=
+Z1 !s110 1677779090
+!i10b 0
+!s100 WZ6]io<N69;3eX<M:gdzi3
+I1R0W>SV^UYlBY3Z];XQ6h2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 677785568
+R0
+Z3 w1677779090
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\uram_rd_back_v1_0\hdl\uram_rd_back_v1_0_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\uram_rd_back_v1_0\hdl\uram_rd_back_v1_0_rfs.v
+Z6 L0 87
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1677779089.000000
+Z9 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\uram_rd_back_v1_0\hdl\uram_rd_back_v1_0_rfs.v|
+Z10 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|uram_rd_back_v1_0_2|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/uram_rd_back_v1_0_2/.cxl.verilog.uram_rd_back_v1_0_2.uram_rd_back_v1_0_2.nt64.cmf|
+!i113 1
+Z11 o-work uram_rd_back_v1_0_2
+Z12 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work uram_rd_back_v1_0_2
+Z13 tCvgOpt 0
+n477522
+vC4x+gDR+9rp+Xj9iy5swrpZ/sC8gMM8yfrZC/ifjWFo=
+R1
+!i10b 0
+!s100 HefJnnD8d_g:^CHaHL`H>1
+IH`5gD[3OFoTGCU@eilVNR0
+R2
+!i8a 1311024416
+R0
+R3
+R4
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+n5282e10
+vslTEoWPic97iy9WAHwwch1XyWZXxSbDofr1tTRjiKUt82krRBrQmgtAEHdSGkAlz
+R1
+!i10b 0
+!s100 GA0BM1W1EWfCIIhH9SXXi0
+I>fazj4@YY=kY7X=obPk1?3
+R2
+!i8a 1296308000
+R0
+R3
+R4
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+na197528
+vKEa7kGvj7O7RVzUIuhH8VtPQI2RCHXL3KmIEa2b0DaMVxTX0Cq7QGttyxDWN2H74
+R1
+!i10b 0
+!s100 5be45ZBhX0FYJ2TH6h3cR1
+Ilo<bDPP9`n3JZ<2YzAUJS0
+R2
+!i8a 709722032
+R0
+R3
+R4
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+nf6444cd

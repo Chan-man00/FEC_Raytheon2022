@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/g975_efec_i4_v1_0_19
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap g975_efec_i4_v1_0_19 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/g975_efec_i4_v1_0_19
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work g975_efec_i4_v1_0_19 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/g975_efec_i4_v1_0_19/.cxl.vhdl.g975_efec_i4_v1_0_19.g975_efec_i4_v1_0_19.nt64.cmf

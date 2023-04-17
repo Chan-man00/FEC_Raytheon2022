@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/pc_cfr_v6_4_2
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap pc_cfr_v6_4_2 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/pc_cfr_v6_4_2
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work pc_cfr_v6_4_2 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/pc_cfr_v6_4_2/.cxl.vhdl.pc_cfr_v6_4_2.pc_cfr_v6_4_2.nt64.cmf

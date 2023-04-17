@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vddr4_pl_phy_v1_0_0_pll
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1677777932
+!i10b 1
+!s100 ]6E^hFh:Agf0mCjJSJ0o^0
+IFK^SZQb>9T:_@z[]<0GY;3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ddr4_pl_phy_v1_0_pll_sv_unit
+S1
+R0
+Z4 w1665757255
+8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/ddr4_pl_phy_v1_0/hdl/clocking/ddr4_pl_phy_v1_0_pll.sv
+FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/ddr4_pl_phy_v1_0/hdl/clocking/ddr4_pl_phy_v1_0_pll.sv
+L0 88
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1677777932.000000
+Z7 !s107 C:/Xilinx/Vivado/2022.2/data/ip/xilinx/ddr4_pl_phy_v1_0/hdl/xphy_bank/ddr4_pl_phy_v1_0_xphy_bank_wrapper.sv|C:/Xilinx/Vivado/2022.2/data/ip/xilinx/ddr4_pl_phy_v1_0/hdl/clocking/ddr4_pl_phy_v1_0_pll.sv|
+Z8 !s90 -L|ddr4_pl_phy_v1_0_0|+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-sv|-svinputport=relaxed|-work|ddr4_pl_phy_v1_0_0|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/ddr4_pl_phy_v1_0_0/.cxl.systemverilog.ddr4_pl_phy_v1_0_0.ddr4_pl_phy_v1_0_0.nt64.cmf|
+!i113 1
+Z9 o-L ddr4_pl_phy_v1_0_0 -sv -svinputport=relaxed -work ddr4_pl_phy_v1_0_0
+Z10 !s92 -L ddr4_pl_phy_v1_0_0 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -sv -svinputport=relaxed -work ddr4_pl_phy_v1_0_0
+Z11 tCvgOpt 0
+vddr4_pl_phy_v1_0_0_xphy_bank_wrapper
+R1
+R2
+!i10b 1
+!s100 F3BRPEn_9l::UAlLGUbnW0
+I`[R?Wd@Q?;Q6lOMM3D0L<3
+R3
+!s105 ddr4_pl_phy_v1_0_xphy_bank_wrapper_sv_unit
+S1
+R0
+R4
+8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/ddr4_pl_phy_v1_0/hdl/xphy_bank/ddr4_pl_phy_v1_0_xphy_bank_wrapper.sv
+FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/ddr4_pl_phy_v1_0/hdl/xphy_bank/ddr4_pl_phy_v1_0_xphy_bank_wrapper.sv
+L0 73
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11

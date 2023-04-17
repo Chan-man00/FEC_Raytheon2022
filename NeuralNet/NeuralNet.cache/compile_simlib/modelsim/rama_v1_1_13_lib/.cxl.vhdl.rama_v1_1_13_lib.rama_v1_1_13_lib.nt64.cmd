@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/rama_v1_1_13_lib
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap rama_v1_1_13_lib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/rama_v1_1_13_lib
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work rama_v1_1_13_lib -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/rama_v1_1_13_lib/.cxl.vhdl.rama_v1_1_13_lib.rama_v1_1_13_lib.nt64.cmf

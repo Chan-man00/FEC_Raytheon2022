@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/uhdsdi_gt_v2_0_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap uhdsdi_gt_v2_0_9 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/uhdsdi_gt_v2_0_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work uhdsdi_gt_v2_0_9 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/uhdsdi_gt_v2_0_9/.cxl.vhdl.uhdsdi_gt_v2_0_9.uhdsdi_gt_v2_0_9.nt64.cmf

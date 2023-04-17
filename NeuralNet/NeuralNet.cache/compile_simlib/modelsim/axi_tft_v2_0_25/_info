@@ -1,0 +1,221 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+Eaxi_tft
+Z1 w1665757247
+Z2 DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 [AUAFNJW:`2SG<Ko:5ggg3
+Z3 DEx23 axi_master_burst_v2_0_7 16 axi_master_burst 0 22 G:RhSnz_B<gbeAn<`d_iW2
+Z4 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z5 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+Z6 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z7 DEx20 axi_lite_ipif_v3_0_4 13 axi_lite_ipif 0 22 J1b7VKb;?`UXnaGg<5z0d3
+Z8 DPx20 axi_lite_ipif_v3_0_4 8 ipif_pkg 0 22 zJ]@GWZl6YPP]W9DYEE:f3
+Z9 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z10 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z11 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z12 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z13 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_tft_v2_0\hdl\axi_tft_v2_0_rfs.vhd
+Z14 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_tft_v2_0\hdl\axi_tft_v2_0_rfs.vhd
+l0
+L256
+VD6ZI_k`QkOkVCFU8o9FFP2
+!s100 U:OFma5`]ZIa9o>cSDB1W0
+Z15 OV;C;10.5b;63
+31
+Z16 !s110 1677779794
+!i10b 1
+Z17 !s108 1677779794.000000
+Z18 !s90 -93|-work|axi_tft_v2_0_25|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_tft_v2_0_25/.cxl.vhdl.axi_tft_v2_0_25.axi_tft_v2_0_25.nt64.cmf|
+Z19 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_tft_v2_0\hdl\axi_tft_v2_0_rfs.vhd|
+!i113 1
+Z20 o-93 -work axi_tft_v2_0_25
+Z21 tExplicit 1 CvgOpt 0
+Aimp
+R3
+R7
+R2
+R4
+R5
+R6
+R8
+R9
+R10
+R11
+R12
+DEx4 work 7 axi_tft 0 22 D6ZI_k`QkOkVCFU8o9FFP2
+l669
+L412
+V9B4F?lc90Z;zElfBl8_[g1
+!s100 i_A?_oOnBMBY37R>@Pl0X2
+R15
+31
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R20
+R21
+vaxi_tft_v2_0_25_h_sync
+Z22 !s110 1677779797
+!i10b 1
+!s100 [b[jaUg35RgQ0:K`<=ZWU1
+IddH7:M>DHfHgiYfYMgI5[1
+Z23 VDg1SIo80bB@j0V0VzS_@n1
+R0
+R1
+Z24 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_tft_v2_0\hdl\axi_tft_v2_0_rfs.v
+Z25 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_tft_v2_0\hdl\axi_tft_v2_0_rfs.v
+L0 2427
+Z26 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z27 !s108 1677779797.000000
+Z28 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_tft_v2_0\hdl\axi_tft_v2_0_rfs.v|
+Z29 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axi_tft_v2_0_25|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_tft_v2_0_25/.cxl.verilog.axi_tft_v2_0_25.axi_tft_v2_0_25.nt64.cmf|
+!i113 1
+Z30 o-work axi_tft_v2_0_25
+Z31 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axi_tft_v2_0_25
+Z32 tCvgOpt 0
+vaxi_tft_v2_0_25_iic_init
+R22
+!i10b 1
+!s100 WZ[8=MUGVD6GO>]z?G0S80
+I9Kn4Z=KAR5b]z[3LALX5;0
+R23
+R0
+R1
+R24
+R25
+L0 94
+R26
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R30
+R31
+R32
+vaxi_tft_v2_0_25_line_buffer
+R22
+!i10b 1
+!s100 89FGm5oVBCM`IAH4:E?kI0
+I<5<He70?Ln_02Xn?fK5F91
+R23
+R0
+R1
+R24
+R25
+L0 2114
+R26
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R30
+R31
+R32
+vaxi_tft_v2_0_25_slave_register
+R22
+!i10b 1
+!s100 03fkBXZE15K774H`>`DAa3
+IMJ537RiLkKMN=0zWZmHe=0
+R23
+R0
+R1
+R24
+R25
+L0 1519
+R26
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R30
+R31
+R32
+vaxi_tft_v2_0_25_tft_controller
+R22
+!i10b 1
+!s100 A;AH@iFCFz3ohc2GBhUVa3
+IgkaiOR16Nk:NQ5:d8kDPM1
+R23
+R0
+R1
+R24
+R25
+L0 2837
+R26
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R30
+R31
+R32
+vaxi_tft_v2_0_25_tft_interface
+R22
+!i10b 1
+!s100 07E7M]Kg0Y^JYTQSjaF8]2
+IXcmQYXNkaVRWKlO5WMFi41
+R23
+R0
+R1
+R24
+R25
+L0 918
+R26
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R30
+R31
+R32
+vaxi_tft_v2_0_25_v_sync
+R22
+!i10b 1
+!s100 zN6lolU42AHdleOGFNinA0
+IR<o7EkN5fE7lmVnaANYmd0
+R23
+R0
+R1
+R24
+R25
+L0 515
+R26
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R30
+R31
+R32

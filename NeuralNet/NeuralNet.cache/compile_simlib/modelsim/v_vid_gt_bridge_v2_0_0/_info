@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vgpio_rate_change
+Z1 !s110 1677780443
+!i10b 1
+!s100 =aGX4ZZXA>WO;gMWjM_iz0
+I=E]9McXTEW@N]8f`J7ao`3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757285
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\v_vid_gt_bridge_v2_0\hdl\v_vid_gt_bridge_v2_0_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\v_vid_gt_bridge_v2_0\hdl\v_vid_gt_bridge_v2_0_rfs.v
+L0 1581
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677780443.000000
+Z8 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\v_vid_gt_bridge_v2_0\hdl\v_vid_gt_bridge_v2_0_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|v_vid_gt_bridge_v2_0_0|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/v_vid_gt_bridge_v2_0_0/.cxl.verilog.v_vid_gt_bridge_v2_0_0.v_vid_gt_bridge_v2_0_0.nt64.cmf|
+!i113 1
+Z10 o-work v_vid_gt_bridge_v2_0_0
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work v_vid_gt_bridge_v2_0_0
+Z12 tCvgOpt 0
+vrx_rate_detect
+R1
+!i10b 1
+!s100 W2@2XJijT^;Sf7G@i=o@?0
+IT]3HX1AUV=d:PKC^BO3bn3
+R2
+R0
+R3
+R4
+R5
+L0 1379
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vv_vid_gt_bridge_v2_0_0_axi
+R1
+!i10b 1
+!s100 _JZF@ED9BWa9KmmaOooF:0
+I8X[e[I_@VKN0PSA>3ETiF3
+R2
+R0
+R3
+R4
+R5
+L0 49
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

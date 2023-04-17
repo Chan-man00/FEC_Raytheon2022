@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Apr 17 09:51:42 2023
+# Process ID: 16068
+# Current directory: C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.runs/output_1b_synth_1
+# Command line: vivado.exe -log output_1b.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source output_1b.tcl
+# Log file: C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.runs/output_1b_synth_1/output_1b.vds
+# Journal file: C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.runs/output_1b_synth_1\vivado.jou
+# Running On: crisLaptop, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 16890 MB
+#-----------------------------------------------------------
+source output_1b.tcl -notrace

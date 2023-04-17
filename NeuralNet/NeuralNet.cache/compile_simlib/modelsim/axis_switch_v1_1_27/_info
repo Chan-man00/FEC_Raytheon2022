@@ -1,0 +1,344 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxis_switch_v1_1_27_arb_rr
+Z1 !s110 1677779313
+!i10b 1
+!s100 T4BLh<d7IY?F3NJCCC`LD1
+IGfg6gLbiVBo=ji>@L:OH;3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757542
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_switch_v1_1\hdl\axis_switch_v1_1_vl_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_switch_v1_1\hdl\axis_switch_v1_1_vl_rfs.v
+L0 61
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677779313.000000
+Z8 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_switch_v1_1\hdl\axis_switch_v1_1_vl_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axis_switch_v1_1_27|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axis_switch_v1_1_27/.cxl.verilog.axis_switch_v1_1_27.axis_switch_v1_1_27.nt64.cmf|
+!i113 1
+Z10 o-work axis_switch_v1_1_27
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axis_switch_v1_1_27
+Z12 tCvgOpt 0
+vaxis_switch_v1_1_27_arb_trr
+R1
+!i10b 1
+!s100 Q=QV]6anE8lPCoIB3Y2_^0
+I68Di<3YVAMR72^;a>Qaa_0
+R2
+R0
+R3
+R4
+R5
+L0 285
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_axi_ctrl_read
+R1
+!i10b 1
+!s100 ERgH4WZgnBJH_6g=8mNRS3
+IadDZdFJ1iRO6kV0=6LX=o0
+R2
+R0
+R3
+R4
+R5
+L0 1745
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_axi_ctrl_top
+R1
+!i10b 1
+!s100 BDlefV0?G_zLXQW;UndO80
+I9]M]O0XLF>BTMFZJUg<ZZ3
+R2
+R0
+R3
+R4
+R5
+L0 2077
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_axi_ctrl_write
+R1
+!i10b 1
+!s100 8ZenNChoHHbQEAOd4DNnL3
+IiCTJF>Yi]21U0YA:B[nb62
+R2
+R0
+R3
+R4
+R5
+L0 1920
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_axis_switch
+R1
+!i10b 1
+!s100 MYNdb1c4BWKglla:;0]LR2
+IP@o@eNIO_:_G[`V:334hY1
+R2
+R0
+R3
+R4
+R5
+Z13 FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_infrastructure_v1_1_0.vh
+L0 3090
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_axis_switch_arbiter
+R1
+!i10b 1
+!s100 0HChRj1n0=Fj^IRTiA[_W3
+IfhoQm@]YDFceI4PzLi[3U0
+R2
+R0
+R3
+R4
+R5
+L0 1359
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_axisc_arb_responder
+R1
+!i10b 1
+!s100 gBmbXhE=]n`Hi3Dkna4X]1
+Ih8O:0zUO_@^=SmU^jYBBD2
+R2
+R0
+R3
+R4
+R5
+R13
+L0 1123
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_axisc_decoder
+R1
+!i10b 1
+!s100 kAJL2cCc`CcGS5ENa@he>0
+IQ=4E<<O=dJGnf?AS>3;di3
+R2
+R0
+R3
+R4
+R5
+R13
+L0 479
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_axisc_transfer_mux
+R1
+!i10b 1
+!s100 ]CZR>Y9e[=KDRVL>TnB[O3
+IBjB2AHAcSaf]]UAja=oS;1
+R2
+R0
+R3
+R4
+R5
+R13
+L0 819
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_dynamic_priority_encoder
+R1
+!i10b 1
+!s100 HeOoZR^cF@QOGPW3SVU7i0
+Im;2mBjf[:LL1M]9OZQ>Xf2
+R2
+R0
+R3
+R4
+R5
+L0 1536
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_reg_bank_16x32
+R1
+!i10b 1
+!s100 G:U`GOdF`L;R<JOCX=_KD3
+IiZWGF^1;?@?HIIL=1:6i[2
+R2
+R0
+R3
+R4
+R5
+L0 2971
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_static_router
+R1
+!i10b 1
+!s100 DIFzgN:5[XaYXMLRKmG@53
+I0PMaeij5gfOlM`:JMFmR^3
+R2
+R0
+R3
+R4
+R5
+L0 2786
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_static_router_config
+R1
+!i10b 1
+!s100 T]Qb2`zIl^9V>zW_llA9P1
+IhScTm4e73e2OimY2GhahO0
+R2
+R0
+R3
+R4
+R5
+L0 2578
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_switch_v1_1_27_static_router_config_dp
+R1
+!i10b 1
+!s100 B@gff^g6O?6h`ffY5ZXn:2
+Iadif?IfBk[CK5IkNEdzeR1
+R2
+R0
+R3
+R4
+R5
+L0 2346
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

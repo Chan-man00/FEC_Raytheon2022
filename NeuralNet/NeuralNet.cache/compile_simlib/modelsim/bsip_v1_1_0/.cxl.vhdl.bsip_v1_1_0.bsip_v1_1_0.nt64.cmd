@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/bsip_v1_1_0
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap bsip_v1_1_0 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/bsip_v1_1_0
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work bsip_v1_1_0 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/bsip_v1_1_0/.cxl.vhdl.bsip_v1_1_0.bsip_v1_1_0.nt64.cmf

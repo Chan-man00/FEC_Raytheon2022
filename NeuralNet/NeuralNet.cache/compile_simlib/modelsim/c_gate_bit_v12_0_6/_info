@@ -1,0 +1,316 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+EaxyULaFcu+mGIXfjMpX38g==
+Z1 w1665757251
+Z2 DPx18 c_gate_bit_v12_0_6 18 pkg_gate_bit_v12_0 0 22 AAX^89RbCiWl2So?F>K<40
+Z3 DPx18 xbip_utils_v3_0_10 22 xbip_utils_v3_0_10_pkg 0 22 k6c_dacb674o0ZHoknUL60
+Z4 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z5 DPx6 unisim 11 vcomponents 0 22 bojz3^U?3nIX?;X7CSzKh3
+Z6 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z7 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z10 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\c_gate_bit_v12_0\hdl\c_gate_bit_v12_0_vh_rfs.vhd
+Z11 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\c_gate_bit_v12_0\hdl\c_gate_bit_v12_0_vh_rfs.vhd
+l0
+L2096
+VV;>BfJgCm[8;dILdkohn=1
+!s100 OOQe20J0A@i<`5WJ1If^a2
+Z12 OV;C;10.5b;63
+!i8a 1910803200
+31
+Z13 !s110 1677779994
+!i10b 1
+Z14 !s108 1677779993.000000
+Z15 !s90 -93|-work|c_gate_bit_v12_0_6|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/c_gate_bit_v12_0_6/.cxl.vhdl.c_gate_bit_v12_0_6.c_gate_bit_v12_0_6.nt64.cmf|
+Z16 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\c_gate_bit_v12_0\hdl\c_gate_bit_v12_0_vh_rfs.vhd|
+!i113 1
+Z17 o-93 -work c_gate_bit_v12_0_6
+Z18 tExplicit 1 CvgOpt 0
+nd2c7322
+A7sus5LXSMQYYtpXZA4CCmQ==
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 15 c_gate_bit_tier 0 22 V;>BfJgCm[8;dILdkohn=1
+l2121
+L2110
+VV=YUQ]hfLV7U38Mz;ljG`1
+!s100 B^[H9nl^UYQ9eUi9UUceW2
+R12
+!i8a 1706074624
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Z19 n7b05a8
+EkpKW2gqik/dyCD15jZmDDA==
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R0
+R10
+R11
+l0
+L1782
+VQFIWcPO^HNEOLZ9IJ06l;3
+!s100 o5]g]EJ^aA>4<ANSY>cA?0
+R12
+!i8a 264488336
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+nd2c74c5
+AwzbfGPUCLa3G+ehRiVr5iA==
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 15 c_gate_bit_tile 0 22 QFIWcPO^HNEOLZ9IJ06l;3
+l1864
+L1795
+VQSY>m:QRZcG?cb`WohdXO1
+!s100 46MdahKdC_?hKcA2J]POh2
+R12
+!i8a 521403104
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+R19
+EkLtKxLHyIgGqe7N61TBubxxBFHj5dr+Kull+sH6izGs=
+R1
+Z20 DPx18 c_gate_bit_v12_0_6 27 c_gate_bit_v12_0_6_viv_comp 0 22 VBeD<@L@kaUT_:2cMcZKX0
+R8
+R9
+R3
+R0
+R10
+R11
+l0
+L2760
+VhP@J62ZWz0NoLU3Hd[f@_0
+!s100 Y;;7=;ZA`lDE385aGzhX=3
+R12
+!i8a 1900471232
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+n48af8e6
+APJAIH0dcwb6Avv8CQQvCUQ==
+R20
+R8
+R9
+R3
+DEx4 work 18 c_gate_bit_v12_0_6 0 22 hP@J62ZWz0NoLU3Hd[f@_0
+l2805
+L2800
+V[21AJ9n<hbT0hZD8>Gm]63
+!s100 SQVgN659lkW_MbmfT9OP]1
+R12
+!i8a 290706704
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+n7f03058
+PsgJJVEu4TobvdH3RfDrw/tTqoQOdzbUDMZIQQvZhhg0=
+R8
+R9
+R1
+R0
+R10
+R11
+l0
+L147
+VkFMmi:d9h`AB88YfoHiUJ1
+!s100 zci6?6G?mI>AGU][cIF742
+R12
+!i8a 329685952
+31
+Z21 !s110 1677779993
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+nf0d4bc0
+EyNY2g/royTjEzUfnxufrXZiaJ3eJF5OWR1jmiczj37A=
+R1
+R2
+Z22 DPx16 c_reg_fd_v12_0_6 25 c_reg_fd_v12_0_6_viv_comp 0 22 EQbK9HR6dA?RK>3U49@FE1
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R0
+R10
+R11
+l0
+L2251
+VWVSg:<6=1diOMKh;XzPZ73
+!s100 4>ifSN6=RG==2az::z9213
+R12
+!i8a 692609744
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+n8f0e7f6
+AjTsYpBV1fF6SkCLOP6NLbg==
+R2
+R22
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 22 c_gate_bit_v12_0_6_viv 0 22 WVSg:<6=1diOMKh;XzPZ73
+l2408
+L2291
+VY=fFGmC]2Ye2@cXX5Wde22
+!s100 FlUeVE159I;O6C_lhS:7L1
+R12
+!i8a 716260608
+31
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+R19
+P/NfdMe+IGevI85GBxXwlnSX/fVH6d+IqSZruKovCURQ=
+R8
+R9
+R1
+R0
+R10
+R11
+l0
+L250
+VVBeD<@L@kaUT_:2cMcZKX0
+!s100 BPXm^NRA=bKYKh8SWnW]m2
+R12
+!i8a 2142913120
+31
+R21
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+nf4aac30
+PHC4btEw8CnHxKo3Czog9MFLSb9kngBHTrE1/hcq/U/A=
+R3
+R8
+R9
+R1
+R0
+R10
+R11
+l0
+L360
+VAAX^89RbCiWl2So?F>K<40
+!s100 z`_6`TjoSF`6T];XYbLPT0
+R12
+!i8a 790773920
+31
+b1
+R21
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+n7b5caf0
+BC6ibOOeGrcI1GUobY1b9Bg==
+DPx4 work 18 pkg_gate_bit_v12_0 0 22 AAX^89RbCiWl2So?F>K<40
+R3
+R8
+R9
+l0
+L497
+V[`[L8]H3JYVndIScR:f0Y0
+!s100 @_dJgfQJHhnAU;TkH]6Cb0
+R12
+!i8a 1783678976
+31
+R21
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+nbody

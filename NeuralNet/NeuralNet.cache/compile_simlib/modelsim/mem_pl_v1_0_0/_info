@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vmem_pl_phy_pll
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1677778662
+!i10b 1
+!s100 ];Y25T2_c1^:>m0<_2j9U0
+I=ogJc1I?HijCSZ2WTiWl30
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 mem_pl_phy_pll_sv_unit
+S1
+R0
+Z4 w1665757265
+8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/mem_pl_v1_0/hdl/clocking/mem_pl_phy_pll.sv
+FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/mem_pl_v1_0/hdl/clocking/mem_pl_phy_pll.sv
+L0 89
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1677778662.000000
+Z7 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/mem_pl_v1_0_0_chipscope_icon2xsdb_mstrbr_ver_inc.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/mem_pl_v1_0_0_cs_ver_inc.vh|C:/Xilinx/Vivado/2022.2/data/ip/xilinx/mem_pl_v1_0/hdl/xsdb/mem_pl_v1_0_chipscope_xsdb_slave.sv|C:/Xilinx/Vivado/2022.2/data/ip/xilinx/mem_pl_v1_0/hdl/clocking/mem_pl_phy_pll.sv|
+Z8 !s90 -L|mem_pl_v1_0_0|+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-sv|-svinputport=relaxed|-work|mem_pl_v1_0_0|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/mem_pl_v1_0_0/.cxl.systemverilog.mem_pl_v1_0_0.mem_pl_v1_0_0.nt64.cmf|
+!i113 1
+Z9 o-L mem_pl_v1_0_0 -sv -svinputport=relaxed -work mem_pl_v1_0_0
+Z10 !s92 -L mem_pl_v1_0_0 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -sv -svinputport=relaxed -work mem_pl_v1_0_0
+Z11 tCvgOpt 0
+vmem_pl_v1_0_0_chipscope_xsdb_slave
+R1
+R2
+!i10b 1
+!s100 >J0hh:?2GeBgnhEcLToN31
+ITEYeJnMYeXHXl19>Xfd[C0
+R3
+!s105 mem_pl_v1_0_chipscope_xsdb_slave_sv_unit
+S1
+R0
+R4
+8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/mem_pl_v1_0/hdl/xsdb/mem_pl_v1_0_chipscope_xsdb_slave.sv
+FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/mem_pl_v1_0/hdl/xsdb/mem_pl_v1_0_chipscope_xsdb_slave.sv
+L0 29
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11

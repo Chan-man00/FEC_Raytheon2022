@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/mailbox_v2_1_15
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap mailbox_v2_1_15 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/mailbox_v2_1_15
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work mailbox_v2_1_15 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/mailbox_v2_1_15/.cxl.vhdl.mailbox_v2_1_15.mailbox_v2_1_15.nt64.cmf

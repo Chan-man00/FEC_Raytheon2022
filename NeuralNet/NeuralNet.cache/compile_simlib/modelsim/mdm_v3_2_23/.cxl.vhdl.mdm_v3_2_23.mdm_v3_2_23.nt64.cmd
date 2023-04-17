@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/mdm_v3_2_23
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap mdm_v3_2_23 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/mdm_v3_2_23
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work mdm_v3_2_23 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/mdm_v3_2_23/.cxl.vhdl.mdm_v3_2_23.mdm_v3_2_23.nt64.cmf

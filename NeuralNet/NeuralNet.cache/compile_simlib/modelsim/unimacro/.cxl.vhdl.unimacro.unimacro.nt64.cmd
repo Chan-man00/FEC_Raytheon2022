@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/unimacro
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap unimacro C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/unimacro
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom -source -93 -work unimacro -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/unimacro/.cxl.vhdl.unimacro.unimacro.nt64.cmf

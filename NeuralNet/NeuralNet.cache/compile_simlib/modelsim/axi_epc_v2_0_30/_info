@@ -1,0 +1,540 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+Eaccess_mux
+Z1 w1665757245
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx20 axi_lite_ipif_v3_0_4 8 ipif_pkg 0 22 zJ]@GWZl6YPP]W9DYEE:f3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_epc_v2_0\hdl\axi_epc_v2_0_vh_rfs.vhd
+Z8 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_epc_v2_0\hdl\axi_epc_v2_0_vh_rfs.vhd
+l0
+L7849
+VdCb=3m2zohX^Q^f?_c7l>3
+!s100 Ok=ffH>`P>_mo6nhOk9jz1
+Z9 OV;C;10.5b;63
+31
+Z10 !s110 1677779552
+!i10b 1
+Z11 !s108 1677779547.000000
+Z12 !s90 -93|-work|axi_epc_v2_0_30|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_epc_v2_0_30/.cxl.vhdl.axi_epc_v2_0_30.axi_epc_v2_0_30.nt64.cmf|
+Z13 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_epc_v2_0\hdl\axi_epc_v2_0_vh_rfs.vhd|
+!i113 1
+Z14 o-93 -work axi_epc_v2_0_30
+Z15 tExplicit 1 CvgOpt 0
+Aimp
+R2
+R3
+R4
+R5
+R6
+DEx4 work 10 access_mux 0 22 dCb=3m2zohX^Q^f?_c7l>3
+l7986
+L7922
+VG^]YWmMhGl9eDNA_0iK=H1
+!s100 a8n3edUO7]Nh77LAhS]3B3
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eaddress_gen
+R1
+Z16 DEx15 axi_epc_v2_0_30 12 ld_arith_reg 0 22 F9^SJdK]XGUg3c185aY7k0
+R3
+R5
+R6
+R0
+R7
+R8
+l0
+L7377
+VT6FIze9USiZ033jEK]njV0
+!s100 2cdcAE>b4O@D5KCnzI2Ce3
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+R16
+R3
+R5
+R6
+DEx4 work 11 address_gen 0 22 T6FIze9USiZ033jEK]njV0
+l7446
+L7415
+Vd5dfbGd`;0jfX>IJ93d?:0
+!s100 X?bBmKR<Nb<zPSfL@[@W;0
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Easync_cntl
+R1
+Z17 DEx15 axi_epc_v2_0_30 14 async_counters 0 22 =DZ@>SOZ<4HmK]H56hk?@1
+Z18 DEx15 axi_epc_v2_0_30 18 async_statemachine 0 22 ;:dYNSaWcDVcLncTZBi3A0
+Z19 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z20 DPx6 unisim 11 vcomponents 0 22 bojz3^U?3nIX?;X7CSzKh3
+Z21 DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 [AUAFNJW:`2SG<Ko:5ggg3
+R2
+R4
+Z22 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z23 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+R3
+R5
+R6
+R0
+R7
+R8
+l0
+L5834
+V;YB631c3HRE^_J[QigzLF3
+!s100 kGiH:OO^i6<BX748boSlV2
+R9
+31
+Z24 !s110 1677779551
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+R17
+R18
+R19
+R20
+R21
+R2
+R4
+R22
+R23
+R3
+R5
+R6
+DEx4 work 10 async_cntl 0 22 ;YB631c3HRE^_J[QigzLF3
+l6848
+L5949
+V5SX5:3hgSznF<7D[5EMj;1
+!s100 i0@c4>hn]d;]zTGcD^g>P3
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Easync_counters
+R1
+R16
+R3
+R5
+R6
+R0
+R7
+R8
+l0
+L1481
+V=DZ@>SOZ<4HmK]H56hk?@1
+!s100 9DBJGoZ`jk^hP^@?E^hb?2
+R9
+31
+Z25 !s110 1677779547
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+R16
+R3
+R5
+R6
+DEx4 work 14 async_counters 0 22 =DZ@>SOZ<4HmK]H56hk?@1
+l1607
+L1558
+VOdzVeIBNFmON7YhVRfclS1
+!s100 Ljb:L7aoUilZL4HS:CIhP0
+R9
+31
+R25
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Easync_statemachine
+R1
+R2
+R21
+R3
+R5
+R6
+R0
+R7
+R8
+l0
+L498
+V;:dYNSaWcDVcLncTZBi3A0
+!s100 :F^nSFC@5KV=fCAcEf@0o3
+R9
+31
+R25
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+R2
+R21
+R3
+R5
+R6
+DEx4 work 18 async_statemachine 0 22 ;:dYNSaWcDVcLncTZBi3A0
+l701
+L587
+VV1I^>]<d]5SKL9T1EBz0i1
+!s100 1P1<Rc3T9I:SG`X4=@_[W2
+R9
+31
+R25
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eaxi_epc
+R1
+R2
+R4
+R3
+R5
+R6
+R0
+R7
+R8
+l0
+L9515
+V@gXUTCHzZgKVoejSTHAb30
+!s100 PdJgb2f`d2]S6SBm`EKfm2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+DEx15 axi_epc_v2_0_30 8 epc_core 0 22 ao8l[Hc3]S4Jzjkl2l9[Q3
+R22
+R23
+R19
+DEx20 axi_lite_ipif_v3_0_4 13 axi_lite_ipif 0 22 J1b7VKb;?`UXnaGg<5z0d3
+R2
+R4
+R3
+R5
+R6
+DEx4 work 7 axi_epc 0 22 @gXUTCHzZgKVoejSTHAb30
+l9926
+L9738
+VIPHO855;;BHMEKUCJBi4J3
+!s100 [XS4DQ=X_L>Vd3gO=[<=E1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Edata_steer
+R1
+R19
+R20
+R3
+R5
+R6
+R0
+R7
+R8
+l0
+L4372
+Vo<^=5hH<I^@z65R^8LkbN2
+!s100 R668hD51]IS36nD><LE:E2
+R9
+31
+Z26 !s110 1677779550
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+R19
+R20
+R3
+R5
+R6
+DEx4 work 10 data_steer 0 22 o<^=5hH<I^@z65R^8LkbN2
+l4487
+L4423
+VjX?bnBJYc>7Fld0AEHTHm0
+!s100 e>mhIJ_CC2E9:@3^S_3kD1
+R9
+31
+R24
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eepc_core
+R1
+R2
+R4
+R3
+R5
+R6
+R0
+R7
+R8
+l0
+L8482
+Vao8l[Hc3]S4Jzjkl2l9[Q3
+!s100 ?3[k4`gaJmSZ]=JR7JnJK1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+DEx15 axi_epc_v2_0_30 10 access_mux 0 22 dCb=3m2zohX^Q^f?_c7l>3
+DEx15 axi_epc_v2_0_30 10 data_steer 0 22 o<^=5hH<I^@z65R^8LkbN2
+DEx15 axi_epc_v2_0_30 11 address_gen 0 22 T6FIze9USiZ033jEK]njV0
+DEx15 axi_epc_v2_0_30 10 async_cntl 0 22 ;YB631c3HRE^_J[QigzLF3
+R21
+DEx15 axi_epc_v2_0_30 9 sync_cntl 0 22 6NYL1R=WN86WeM_gB<LTl3
+R19
+R20
+R22
+R23
+DEx15 axi_epc_v2_0_30 14 ipic_if_decode 0 22 UnPiJm:L;kmQ;O0YE8iLS1
+R2
+R4
+R3
+R5
+R6
+DEx4 work 8 epc_core 0 22 ao8l[Hc3]S4Jzjkl2l9[Q3
+l8840
+L8639
+VRi>3CP7]eZFcD;n=n6CzW2
+!s100 UcL]@5NTJGESDCge165WI0
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eipic_if_decode
+R1
+R19
+R20
+R22
+R23
+R5
+R6
+R0
+R7
+R8
+l0
+L3411
+VUnPiJm:L;kmQ;O0YE8iLS1
+!s100 L?Vfb3^<kYeM6mfMoLcYg1
+R9
+31
+!s110 1677779549
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+R19
+R20
+R22
+R23
+R5
+R6
+DEx4 work 14 ipic_if_decode 0 22 UnPiJm:L;kmQ;O0YE8iLS1
+l3611
+L3491
+VnMC<9ZM951Vk?3]WAZag03
+!s100 K=mzZjPLnlZ6=g^UMhk7;3
+R9
+31
+R26
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eld_arith_reg
+R1
+R5
+R6
+R0
+R7
+R8
+l0
+L101
+VF9^SJdK]XGUg3c185aY7k0
+!s100 NDG63XCKYP^m43f^i<T1P3
+R9
+31
+R25
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+DEx4 work 12 ld_arith_reg 0 22 F9^SJdK]XGUg3c185aY7k0
+R6
+R5
+R19
+l199
+L149
+VXb6L0_UPhRBDj8>n5koJk3
+!s100 1K8R5Cee1YfHT5OCEj`_63
+R9
+31
+R25
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Esync_cntl
+R1
+R19
+R20
+R21
+R16
+R4
+R22
+R23
+R2
+R3
+R5
+R6
+R0
+R7
+R8
+l0
+L2101
+V6NYL1R=WN86WeM_gB<LTl3
+!s100 o3kfO5LdAMYW26=j2F0YN1
+R9
+31
+Z27 !s110 1677779548
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aimp
+R16
+R19
+R20
+R21
+R4
+R22
+R23
+R2
+R3
+R5
+R6
+DEx4 work 9 sync_cntl 0 22 6NYL1R=WN86WeM_gB<LTl3
+l2473
+L2186
+VkHHQ]G61E6_VkG>nK]S?L1
+!s100 bmL8o_gWVUa[oXRN;]n]B2
+R9
+31
+R27
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15

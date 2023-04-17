@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axi_bram_ctrl_v4_0_14
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap axi_bram_ctrl_v4_0_14 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/axi_bram_ctrl_v4_0_14
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work axi_bram_ctrl_v4_0_14 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_bram_ctrl_v4_0_14/.cxl.vhdl.axi_bram_ctrl_v4_0_14.axi_bram_ctrl_v4_0_14.nt64.cmf

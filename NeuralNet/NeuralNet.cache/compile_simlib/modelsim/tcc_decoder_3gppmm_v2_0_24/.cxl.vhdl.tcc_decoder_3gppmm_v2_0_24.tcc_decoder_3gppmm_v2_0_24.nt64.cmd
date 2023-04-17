@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/tcc_decoder_3gppmm_v2_0_24
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap tcc_decoder_3gppmm_v2_0_24 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/tcc_decoder_3gppmm_v2_0_24
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work tcc_decoder_3gppmm_v2_0_24 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/tcc_decoder_3gppmm_v2_0_24/.cxl.vhdl.tcc_decoder_3gppmm_v2_0_24.tcc_decoder_3gppmm_v2_0_24.nt64.cmf

@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/lte_fft_v2_0_22
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap lte_fft_v2_0_22 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/lte_fft_v2_0_22
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work lte_fft_v2_0_22 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/lte_fft_v2_0_22/.cxl.vhdl.lte_fft_v2_0_22.lte_fft_v2_0_22.nt64.cmf

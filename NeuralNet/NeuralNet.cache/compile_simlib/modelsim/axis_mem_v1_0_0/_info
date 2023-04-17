@@ -1,0 +1,171 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxis_mem_v1_0_0_axis_mem
+Z1 !s110 1677777806
+!i10b 1
+!s100 hjL8fYHk]UEYg`Y27BSkc3
+I8hoWKTC1SSMF:z8NPG8Kb0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757371
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_mem_v1_0\hdl\axis_mem_v1_0_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_mem_v1_0\hdl\axis_mem_v1_0_rfs.v
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_probe_width.vh
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_probe_ports.vh
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_mu_inst.vh
+L0 631
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677777806.000000
+Z8 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_mu_inst.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_probe_ports.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_probe_width.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_ver.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_lib_fn.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_mem_v1_0\hdl\axis_mem_v1_0_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axis_mem_v1_0_0|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axis_mem_v1_0_0/.cxl.verilog.axis_mem_v1_0_0.axis_mem_v1_0_0.nt64.cmf|
+!i113 1
+Z10 o-work axis_mem_v1_0_0
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axis_mem_v1_0_0
+Z12 tCvgOpt 0
+vaxis_mem_v1_0_0_generic_memrd
+R1
+!i10b 1
+!s100 n<[c>fPZ7n2Mf8;JOlNmn2
+IhU8OZgi<o2=Q64RV5Ni4E1
+R2
+R0
+R3
+R4
+R5
+Z13 FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_lib_fn.vh
+Z14 FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_mem_v1_0_0_ver.vh
+L0 74
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_mem_v1_0_0_generic_mux
+R1
+!i10b 1
+!s100 <cNb_fNimoK_=cOZR_Cl=1
+I0M<aZilSh85JYkaTI;UXI2
+R2
+R0
+R3
+R4
+R5
+R13
+R14
+L0 22
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_mem_v1_0_0_mem
+R1
+!i10b 1
+!s100 1l6g:XC59cR0jom9CgZXK3
+IZ:J@kGH_0gkF2Za?LiMD<2
+R2
+R0
+R3
+R4
+R5
+L0 359
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_mem_v1_0_0_trace_header
+R1
+!i10b 1
+!s100 0gYa;K<Y?D;]S3JSPK]Gb2
+IkRcA@W@]Z^YNYbCez;XUS1
+R2
+R0
+R3
+R4
+R5
+L0 1322
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vdff
+R1
+!i10b 1
+!s100 TPTjLM[e0>`jN<leniDT73
+I3]n32llee[kC^j>O]M;VJ3
+R2
+R0
+R3
+R4
+R5
+L0 1870
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vdfff
+R1
+!i10b 1
+!s100 ;dHo9c33:<j2YRKD8=ldb1
+IgFNnj74XO>?@?dzLj7:mO1
+R2
+R0
+R3
+R4
+R5
+L0 1305
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+Ecdc_sync
+Z1 w1665757377
+Z2 DPx6 unisim 11 vcomponents 0 22 bojz3^U?3nIX?;X7CSzKh3
+Z3 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z4 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+Z5 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z8 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\lib_cdc_v1_0\hdl\lib_cdc_v1_0_rfs.vhd
+Z9 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\lib_cdc_v1_0\hdl\lib_cdc_v1_0_rfs.vhd
+l0
+L64
+Vh>076gh;]YN`]BXOh6TMQ3
+!s100 iFj<<?Q=`eGILa`gV?>l50
+Z10 OV;C;10.5b;63
+31
+Z11 !s110 1677778605
+!i10b 1
+Z12 !s108 1677778604.000000
+Z13 !s90 -93|-work|lib_cdc_v1_0_2|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/lib_cdc_v1_0_2/.cxl.vhdl.lib_cdc_v1_0_2.lib_cdc_v1_0_2.nt64.cmf|
+Z14 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\lib_cdc_v1_0\hdl\lib_cdc_v1_0_rfs.vhd|
+!i113 1
+Z15 o-93 -work lib_cdc_v1_0_2
+Z16 tExplicit 1 CvgOpt 0
+Aimplementation
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 8 cdc_sync 0 22 h>076gh;]YN`]BXOh6TMQ3
+l136
+L106
+VT`g@C[<OOk5`jkb@^1j<C1
+!s100 bW^MR8e7Hk8nA`7D<8eFz2
+R10
+31
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16

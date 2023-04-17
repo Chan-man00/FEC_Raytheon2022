@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/hbm_v1_0_13
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap hbm_v1_0_13 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/hbm_v1_0_13
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  -L hbm_v1_0_13 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -sv -svinputport=relaxed -work hbm_v1_0_13 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/hbm_v1_0_13/.cxl.systemverilog.hbm_v1_0_13.hbm_v1_0_13.nt64.cmf

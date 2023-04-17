@@ -1,0 +1,99 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxi_clock_converter_v2_1_26_axi_clock_converter
+Z1 !s110 1677779464
+!i10b 1
+!s100 H;]mP:Q6g@Pj_T:AGRSkO3
+IRe7Zkib6O[SWT>D?4=`zS0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757540
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_clock_converter_v2_1\hdl\axi_clock_converter_v2_1_vl_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_clock_converter_v2_1\hdl\axi_clock_converter_v2_1_vl_rfs.v
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axi_infrastructure_v1_1_0.vh
+L0 654
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677779464.000000
+Z8 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axi_infrastructure_v1_1_0.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axi_clock_converter_v2_1\hdl\axi_clock_converter_v2_1_vl_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axi_clock_converter_v2_1_26|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axi_clock_converter_v2_1_26/.cxl.verilog.axi_clock_converter_v2_1_26.axi_clock_converter_v2_1_26.nt64.cmf|
+!i113 1
+Z10 o-work axi_clock_converter_v2_1_26
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axi_clock_converter_v2_1_26
+Z12 tCvgOpt 0
+vaxi_clock_converter_v2_1_26_axic_sample_cycle_ratio
+R1
+!i10b 1
+!s100 >V::FVL24oAfag18_n6Ln3
+IGN7?WhE3=[zgojATU57oT2
+R2
+R0
+R3
+R4
+R5
+L0 359
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_clock_converter_v2_1_26_axic_sync_clock_converter
+R1
+!i10b 1
+!s100 fSnJg1YA1z=QS>nDkXg6E0
+III]=IWY^Si8?J812XRDb<2
+R2
+R0
+R3
+R4
+R5
+L0 63
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxi_clock_converter_v2_1_26_lite_async
+R1
+!i10b 1
+!s100 a[j1FPHe4a1zRLdDoXZ=B3
+IbcXNXQ@;oooCL0e?;99gH3
+R2
+R0
+R3
+R4
+R5
+L0 517
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

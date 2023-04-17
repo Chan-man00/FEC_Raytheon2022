@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vadvanced_io_wizard_v1_0_8_bidirectional_state_machine
+Z1 !s110 1677777521
+!i10b 1
+!s100 TW9Tkb`05j_IAFeHnAl4D2
+I8jR_Z<bC5nS1ik7W_0HM^3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757242
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\advanced_io_wizard_v1_0\hdl\advanced_io_wizard_v1_0_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\advanced_io_wizard_v1_0\hdl\advanced_io_wizard_v1_0_rfs.v
+L0 1547
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677777521.000000
+Z8 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\advanced_io_wizard_v1_0\hdl\advanced_io_wizard_v1_0_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|advanced_io_wizard_v1_0_8|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/advanced_io_wizard_v1_0_8/.cxl.verilog.advanced_io_wizard_v1_0_8.advanced_io_wizard_v1_0_8.nt64.cmf|
+!i113 1
+Z10 o-work advanced_io_wizard_v1_0_8
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work advanced_io_wizard_v1_0_8
+Z12 tCvgOpt 0
+vadvanced_io_wizard_v1_0_8_bidirectional_state_machine_simpleriu
+R1
+!i10b 1
+!s100 nZc9cONRkG?g<V;RfX:Wa1
+IcQH2@KBPZ0HC@Zj3PD9PM1
+R2
+R0
+R3
+R4
+R5
+L0 1799
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vadvanced_io_wizard_v1_0_8_clk_scheme
+R1
+!i10b 1
+!s100 5U_JeJ1mHV];J98aAiokL2
+IY_4BFhlJzLzTUW1lk9CJV1
+R2
+R0
+R3
+R4
+R5
+L0 49
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vadvanced_io_wizard_v1_0_8_mipi_tx_cal
+R1
+!i10b 1
+!s100 Qh0LiVa8[Lc:]DPSXI<_;0
+IWG]mJ>a=5f8UVeeo0IcRl3
+R2
+R0
+R3
+R4
+R5
+L0 879
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

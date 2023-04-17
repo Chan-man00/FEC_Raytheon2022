@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/gmii_to_rgmii_v4_1_5
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap gmii_to_rgmii_v4_1_5 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/gmii_to_rgmii_v4_1_5
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work gmii_to_rgmii_v4_1_5 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/gmii_to_rgmii_v4_1_5/.cxl.vhdl.gmii_to_rgmii_v4_1_5.gmii_to_rgmii_v4_1_5.nt64.cmf

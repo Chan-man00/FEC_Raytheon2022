@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vaxis_ila_adv_trig_v1_0_0_adv_trigger
+Z1 !s110 1677777745
+!i10b 1
+!s100 dMdNQoFAY1_bdTE_NWm^O0
+IEH7h5WYH4Blaj=0]mL[T[3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757370
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_ila_adv_trig_v1_0\hdl\axis_ila_adv_trig_v1_0_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_ila_adv_trig_v1_0\hdl\axis_ila_adv_trig_v1_0_rfs.v
+L0 23
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677777745.000000
+Z8 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_ila_adv_trig_v1_0\hdl\axis_ila_adv_trig_v1_0_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axis_ila_adv_trig_v1_0_0|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axis_ila_adv_trig_v1_0_0/.cxl.verilog.axis_ila_adv_trig_v1_0_0.axis_ila_adv_trig_v1_0_0.nt64.cmf|
+!i113 1
+Z10 o-work axis_ila_adv_trig_v1_0_0
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axis_ila_adv_trig_v1_0_0
+Z12 tCvgOpt 0
+vaxis_ila_adv_trig_v1_0_0_adv_trigger_sequencer
+R1
+!i10b 1
+!s100 >4;0hA?N=Y<cb3i<cG<_<3
+IgEPdVHC[?8Le56>6O5Fl[3
+R2
+R0
+R3
+R4
+R5
+L0 229
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_ila_adv_trig_v1_0_0_generic_counter
+R1
+!i10b 1
+!s100 a`zhJ[Rl`NjAIo]io`RFV3
+I6:>b8Gi0VVWCZQ>;C>8?I3
+R2
+R0
+R3
+R4
+R5
+L0 724
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_ila_adv_trig_v1_0_0_ila_counter
+R1
+!i10b 1
+!s100 `z]Wc:99i1cH0m>mUnCc41
+I=gLJG`I`C5oAMWHP1IWWQ0
+R2
+R0
+R3
+R4
+R5
+L0 670
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vaxis_ila_adv_trig_v1_0_0_ila_fsm_memory_read
+R1
+!i10b 1
+!s100 BN9Hamg`F^EF_TO`TV^Jm1
+ITNFckGAbD<?I[:7JAg8:z1
+R2
+R0
+R3
+R4
+R5
+L0 856
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

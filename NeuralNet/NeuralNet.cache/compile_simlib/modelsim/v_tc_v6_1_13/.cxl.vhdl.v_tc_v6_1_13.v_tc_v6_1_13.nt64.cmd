@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/v_tc_v6_1_13
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap v_tc_v6_1_13 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/v_tc_v6_1_13
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work v_tc_v6_1_13 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/v_tc_v6_1_13/.cxl.vhdl.v_tc_v6_1_13.v_tc_v6_1_13.nt64.cmf

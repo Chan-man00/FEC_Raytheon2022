@@ -1,0 +1,516 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vgtwizard_ultrascale_v1_6_14_bit_synchronizer
+Z1 !s110 1677778521
+!i10b 1
+!s100 ^K:2[OAZH?8SI8f?1h1k20
+IY4[jog6=hV^2W9VLmF1Wd0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757261
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_bit_sync.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_bit_sync.v
+Z4 L0 55
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1677778521.000000
+Z7 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_reset_inv_sync.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_reset_sync.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userdata_tx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userdata_rx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userclk_tx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userclk_rx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_reset.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_buffbypass_tx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_buffbypass_rx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cal_freqcnt.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cpll_cal_tx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cpll_cal_rx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cpll_cal.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cal_freqcnt.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cpll_cal_tx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cpll_cal_rx.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cpll_cal.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe3_cal_freqcnt.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe3_cpll_cal.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_delay_powergood.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_delay_powergood.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gte4_drp_arb.v|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_bit_sync.v|
+Z8 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|gtwizard_ultrascale_v1_6_14|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/gtwizard_ultrascale_v1_6_14/.cxl.verilog.gtwizard_ultrascale_v1_6_14.gtwizard_ultrascale_v1_6_14.nt64.cmf|
+!i113 1
+Z9 o-work gtwizard_ultrascale_v1_6_14
+Z10 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work gtwizard_ultrascale_v1_6_14
+Z11 tCvgOpt 0
+vgtwizard_ultrascale_v1_6_14_gte4_drp_arb
+R1
+!i10b 1
+!s100 [VNZ9X5MzEzXh[iFJj22B1
+IAGjbe<X9=8]oZbg__;BmS3
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gte4_drp_arb.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gte4_drp_arb.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gthe3_cpll_cal
+R1
+!i10b 1
+!s100 `hYW?h5^[CzOd8nA@206j1
+I2Pon_lKjC2BUKgTUVUK3P1
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe3_cpll_cal.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe3_cpll_cal.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gthe3_cpll_cal_freq_counter
+R1
+!i10b 1
+!s100 iU75:VnmoB]oZ1gaL:f7N3
+INeVN2E[ChYFfX9eU>5LGE2
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe3_cal_freqcnt.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe3_cal_freqcnt.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gthe4_cpll_cal
+R1
+!i10b 1
+!s100 ;Z`WM`a[EgJ4;Z2cFel<m3
+IEYmU5FK?54L8`?d=9JD>b0
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cpll_cal.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cpll_cal.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gthe4_cpll_cal_freq_counter
+R1
+!i10b 1
+!s100 CO@?`J`[3GnCD=>I7Bk_`3
+IQ6zolP_Uz`Vd3Oe09VUee2
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cal_freqcnt.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cal_freqcnt.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gthe4_cpll_cal_rx
+R1
+!i10b 1
+!s100 0NGcUP_:z5DOFGSmBd88:2
+IGT:3JF:XY;4<KCG`b`H`M2
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cpll_cal_rx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cpll_cal_rx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gthe4_cpll_cal_tx
+R1
+!i10b 1
+!s100 :WPULkzRIjjXdY@aQoFLc3
+Il3MPT0zW7iBileRM]HmMB1
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cpll_cal_tx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_cpll_cal_tx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gthe4_delay_powergood
+R1
+!i10b 1
+!s100 B_?CZ8g^HWY]dnN^Q1FHK2
+I8NN8a_D:V_ndFHd1X?AfM3
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_delay_powergood.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gthe4_delay_powergood.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtwiz_buffbypass_rx
+R1
+!i10b 1
+!s100 HfO=aWGZ@AS8V9];>h6R03
+IdjGLb`KJZ?j1A?WzMDMRi3
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_buffbypass_rx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_buffbypass_rx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtwiz_buffbypass_tx
+R1
+!i10b 1
+!s100 o30KGW:E1SD?8L4g770^o2
+I9oOWM:aVM<;8]__ClYZWj0
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_buffbypass_tx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_buffbypass_tx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtwiz_reset
+R1
+!i10b 1
+!s100 F_j]CgDzBJ__UhXfV5;aE0
+IGmMbBf;4_88REmd[dESFj1
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_reset.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_reset.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtwiz_userclk_rx
+R1
+!i10b 1
+!s100 mXMa@Cmdkob_[0HDf?2721
+IjYUCVYZFVGP=99K?BaM@>1
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userclk_rx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userclk_rx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtwiz_userclk_tx
+R1
+!i10b 1
+!s100 26TWZW;a;mdmJOXMQ23E]1
+IddVIo>BPVJUNg@1dVI70d3
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userclk_tx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userclk_tx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtwiz_userdata_rx
+R1
+!i10b 1
+!s100 IPVj4FJ7[4zj?eP1JB1@W2
+I`DcNfY?U58VMOhW7H0QRF0
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userdata_rx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userdata_rx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtwiz_userdata_tx
+R1
+!i10b 1
+!s100 OJ74:]gX@[TGN0V?1BMd`0
+IK@Y0DI@89OcSUBmz2zoGQ2
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userdata_tx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtwiz_userdata_tx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtye4_cpll_cal
+R1
+!i10b 1
+!s100 dK[BnX0ehe4bZK]W35[1T2
+IY?h=92FJNSbDagW^G<k?Z0
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cpll_cal.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cpll_cal.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtye4_cpll_cal_freq_counter
+R1
+!i10b 1
+!s100 hP4cZ>7ecg2`oKL054jh[0
+INaQ9bbJgB@j8dWK3@96@T0
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cal_freqcnt.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cal_freqcnt.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtye4_cpll_cal_rx
+R1
+!i10b 1
+!s100 _z;P^BE;^hm3fKiUC=J>Q0
+I@U=UKV7`H<mH7W<TD>CTD3
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cpll_cal_rx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cpll_cal_rx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtye4_cpll_cal_tx
+R1
+!i10b 1
+!s100 YHR4Z3>O_H:3a=Bk=nZ670
+I^4>Ia<UM<nfW66W6Ig_JD1
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cpll_cal_tx.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_cpll_cal_tx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_gtye4_delay_powergood
+R1
+!i10b 1
+!s100 :Z0O4H^PP:ok6@_5b>J:`1
+Ii@;1:a@4Ro31TmQ>Cd^RI0
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_delay_powergood.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_gtye4_delay_powergood.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_reset_inv_synchronizer
+R1
+!i10b 1
+!s100 kmnWJTVYcnb=5NmVgDdKP3
+IP>6m3d9M8cLGgeWV>N;zH0
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_reset_inv_sync.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_reset_inv_sync.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vgtwizard_ultrascale_v1_6_14_reset_synchronizer
+R1
+!i10b 1
+!s100 KGEeCN:bnG6B3dj<PcFEN0
+I;I8c]2FiUnGhBUbib@kd10
+R2
+R0
+R3
+8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_reset_sync.v
+FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\gtwizard_ultrascale_v1_6\hdl\gtwizard_ultrascale_v1_6_reset_sync.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11

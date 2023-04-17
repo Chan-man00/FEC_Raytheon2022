@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/timer_sync_1588_v1_2_4
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap timer_sync_1588_v1_2_4 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/timer_sync_1588_v1_2_4
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work timer_sync_1588_v1_2_4 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/timer_sync_1588_v1_2_4/.cxl.vhdl.timer_sync_1588_v1_2_4.timer_sync_1588_v1_2_4.nt64.cmf

@@ -1,0 +1,208 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vamm_axi_bridge_v1_0_13_arbitration
+Z1 !s110 1677779307
+!i10b 1
+!s100 e8Hgkd@beT[0:Y9hE35T73
+I;8k[_Q^Oic=3<ze[:S3LV0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757242
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\amm_axi_bridge_v1_0\hdl\amm_axi_bridge_v1_0_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\amm_axi_bridge_v1_0\hdl\amm_axi_bridge_v1_0_rfs.v
+L0 1991
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677779307.000000
+Z8 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\amm_axi_bridge_v1_0\hdl\amm_axi_bridge_v1_0_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|amm_axi_bridge_v1_0_13|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/amm_axi_bridge_v1_0_13/.cxl.verilog.amm_axi_bridge_v1_0_13.amm_axi_bridge_v1_0_13.nt64.cmf|
+!i113 1
+Z10 o-work amm_axi_bridge_v1_0_13
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work amm_axi_bridge_v1_0_13
+Z12 tCvgOpt 0
+vamm_axi_bridge_v1_0_13_fifo
+R1
+!i10b 1
+!s100 NCaRaFkHi5bLbic0YB`AC0
+Ig8W3TZjHcA8l@VGoEH2F@1
+R2
+R0
+R3
+R4
+R5
+L0 1870
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vamm_axi_bridge_v1_0_13_read_demux
+R1
+!i10b 1
+!s100 KLJ[^H364Y?`mnVJ`>IS80
+IU;NWb4^SgnGZdZ`N0VAY`3
+R2
+R0
+R3
+R4
+R5
+L0 435
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vamm_axi_bridge_v1_0_13_read_multi
+R1
+!i10b 1
+!s100 @QET[jnFZTzAe1V5VZVeN2
+IAR]Kkk>JBEN=cI]=^kI3^2
+R2
+R0
+R3
+R4
+R5
+L0 157
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vamm_axi_bridge_v1_0_13_read_top
+R1
+!i10b 1
+!s100 TKA9dL]0]Zck8CT@ea>lG0
+If525O^PoeEgfm;b@29a5X0
+R2
+R0
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vamm_axi_bridge_v1_0_13_top
+R1
+!i10b 1
+!s100 4ol;F5K6Y0lk5KihgGW5X1
+I6RG9aWB2;S9gdknm`VmY41
+R2
+R0
+R3
+R4
+R5
+L0 1253
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vamm_axi_bridge_v1_0_13_write_multi
+R1
+!i10b 1
+!s100 1bLIGN_N8j2MNa2_MQUFF3
+IXoZ=^RPnG7h;D:mVLFf^g3
+R2
+R0
+R3
+R4
+R5
+L0 834
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vamm_axi_bridge_v1_0_13_write_mux
+R1
+!i10b 1
+!s100 QZ9cILYLU<=Fa@81g9V>a2
+Ii>D9>7;@Id6Zz[bn:541H1
+R2
+R0
+R3
+R4
+R5
+L0 1101
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vamm_axi_bridge_v1_0_13_write_top
+R1
+!i10b 1
+!s100 C8dQW8M<Dc[]AofLP0R[B2
+IP`kfC?GV2HJzC6CR8Y5ha1
+R2
+R0
+R3
+R4
+R5
+L0 569
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

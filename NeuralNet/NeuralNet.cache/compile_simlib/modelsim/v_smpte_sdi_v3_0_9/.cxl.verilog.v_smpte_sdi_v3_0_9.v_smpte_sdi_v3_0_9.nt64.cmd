@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/v_smpte_sdi_v3_0_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap v_smpte_sdi_v3_0_9 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/v_smpte_sdi_v3_0_9
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlog  +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl -work v_smpte_sdi_v3_0_9 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/v_smpte_sdi_v3_0_9/.cxl.verilog.v_smpte_sdi_v3_0_9.v_smpte_sdi_v3_0_9.nt64.cmf

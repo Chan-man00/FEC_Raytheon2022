@@ -1,0 +1,134 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vDygdFyw+08BkF3D3t64TauOoQuCcU5egwOwq3+Vv/f0=
+!s110 1677777804
+!i10b 1
+!s100 =`U;W4hj;92C]<]PK6HG`3
+IN9dnHUL3AR;o[5]kNkkE@2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 659859904
+R0
+Z2 w1665757249
+Z3 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_itct_v1_0\hdl\axis_itct_v1_0_rfs.v
+Z4 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_itct_v1_0\hdl\axis_itct_v1_0_rfs.v
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_itct_v1_0_0_axis_itct_ports.vh
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_itct_v1_0_0_mu_inst.vh
+Z5 L0 87
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677777760.000000
+Z8 !s107 C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_itct_v1_0_0_mu_inst.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_itct_v1_0_0_axis_itct_ports.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_itct_v1_0_0_cfg_data_2047.vh|C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_itct_v1_0_0_cfg_data_1023.vh|C:\Xilinx\Vivado\2022.2\data\ip\xilinx\axis_itct_v1_0\hdl\axis_itct_v1_0_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|axis_itct_v1_0_0|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/axis_itct_v1_0_0/.cxl.verilog.axis_itct_v1_0_0.axis_itct_v1_0_0.nt64.cmf|
+!i113 1
+Z10 o-work axis_itct_v1_0_0
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work axis_itct_v1_0_0
+Z12 tCvgOpt 0
+n11fa354
+v6l6xPJLEABkKYEzn0gHO8jY4OjrST+53qW6rO9qDXck=
+!s110 1677777767
+!i10b 0
+!s100 2cm4BR[5]Cj2:E8loHFfe1
+I5WAX0jO:I?m_DU@@OjSac2
+R1
+!i8a 720657664
+R0
+w1677777767
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n2bc9273
+vo08kX+Ke0724Pd8vGPrlz9kM9Or+4mttoEI6ytUn3Wc=
+!s110 1677777803
+!i10b 0
+!s100 >1VDz?^a59_5TmVn7UP@@0
+IAMzBVDW[;QFB_E86]ZW<Z1
+R1
+!i8a 204122128
+R0
+w1677777803
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n2bc8257
+vovuMQ9UsdF7Wd0ys1uDjrneDHDhX/wdKRQOPtL7OK0M=
+!s110 1677777762
+!i10b 0
+!s100 zA?057[7:g<ZRPiBD0SzW1
+Ih@GkRi=G=T:74Udf<=3FX3
+R1
+!i8a 1684040304
+R0
+w1677777762
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+na8ced0e
+vGD+0MjcYeBfRye3F6iY7dZbu0hUIwpzC4c+bbQVAyl4=
+!s110 1677777761
+!i10b 1
+!s100 JB>m`n=fZ:0Q;1XUoQl=e3
+I3?Ggm]aePVGaf_k2VfbV<3
+R1
+!i8a 1024349520
+R0
+R2
+R3
+R4
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_itct_v1_0_0_cfg_data_1023.vh
+FC:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl/axis_itct_v1_0_0_cfg_data_2047.vh
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n5b58114

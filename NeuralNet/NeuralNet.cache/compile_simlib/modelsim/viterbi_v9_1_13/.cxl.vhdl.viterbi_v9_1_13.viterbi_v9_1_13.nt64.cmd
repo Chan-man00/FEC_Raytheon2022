@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/viterbi_v9_1_13
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap viterbi_v9_1_13 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/viterbi_v9_1_13
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work viterbi_v9_1_13 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/viterbi_v9_1_13/.cxl.vhdl.viterbi_v9_1_13.viterbi_v9_1_13.nt64.cmf

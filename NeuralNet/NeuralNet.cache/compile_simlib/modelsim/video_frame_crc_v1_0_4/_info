@@ -1,0 +1,77 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vcrc_16_comp
+Z1 !s110 1677779111
+!i10b 1
+!s100 fi0;gRVIfWWn]c=OKTkma0
+I[6PRNb64=:bQF^DoJPd5e0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757287
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\video_frame_crc_v1_0\hdl\video_frame_crc_v1_0_vl_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\video_frame_crc_v1_0\hdl\video_frame_crc_v1_0_vl_rfs.v
+L0 1421
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677779111.000000
+Z8 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\video_frame_crc_v1_0\hdl\video_frame_crc_v1_0_vl_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|video_frame_crc_v1_0_4|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/video_frame_crc_v1_0_4/.cxl.verilog.video_frame_crc_v1_0_4.video_frame_crc_v1_0_4.nt64.cmf|
+!i113 1
+Z10 o-work video_frame_crc_v1_0_4
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work video_frame_crc_v1_0_4
+Z12 tCvgOpt 0
+vvideo_frame_crc_v1_0_4
+R1
+!i10b 1
+!s100 <`=CSVJXP6MQc>0XQ9BR40
+IN4;4Ymnz0NlBTeBdeiBL`2
+R2
+R0
+R3
+R4
+R5
+L0 447
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vvideo_frame_crc_v1_0_4_S_AXI
+R1
+!i10b 1
+!s100 9fW4M8NTn11lo41EkIh@T0
+Ill]kTNze29<oeZ@c0QiQR3
+R2
+R0
+R3
+R4
+R5
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+nvideo_frame_crc_v1_0_4_@s_@a@x@i

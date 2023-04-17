@@ -1,0 +1,3 @@
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vlib C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/ethernet_1_10_25g_v2_7_6
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vmap ethernet_1_10_25g_v2_7_6 C:/Users/18019/Documents/UofU/SPRING2023/capstoneProject/MemoryVHDL/NeuralNet/NeuralNet.cache/compile_simlib/modelsim/ethernet_1_10_25g_v2_7_6
+C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/vcom  -93 -work ethernet_1_10_25g_v2_7_6 -f C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/ethernet_1_10_25g_v2_7_6/.cxl.vhdl.ethernet_1_10_25g_v2_7_6.ethernet_1_10_25g_v2_7_6.nt64.cmf

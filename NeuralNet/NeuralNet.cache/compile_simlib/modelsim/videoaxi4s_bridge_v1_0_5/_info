@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vvideoaxi4s_bridge_v1_0_5
+Z1 !s110 1677780383
+!i10b 1
+!s100 C@TfCC767Gh]h3TQMnOW_1
+IhUeEl?WnCFLL>d@c[]R7A3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665757287
+Z4 8C:\Xilinx\Vivado\2022.2\data\ip\xilinx\videoaxi4s_bridge_v1_0\hdl\videoaxi4s_bridge_v1_0_rfs.v
+Z5 FC:\Xilinx\Vivado\2022.2\data\ip\xilinx\videoaxi4s_bridge_v1_0\hdl\videoaxi4s_bridge_v1_0_rfs.v
+L0 3
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1677780383.000000
+Z8 !s107 C:\Xilinx\Vivado\2022.2\data\ip\xilinx\videoaxi4s_bridge_v1_0\hdl\videoaxi4s_bridge_v1_0_rfs.v|
+Z9 !s90 +incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-work|videoaxi4s_bridge_v1_0_5|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/videoaxi4s_bridge_v1_0_5/.cxl.verilog.videoaxi4s_bridge_v1_0_5.videoaxi4s_bridge_v1_0_5.nt64.cmf|
+!i113 1
+Z10 o-work videoaxi4s_bridge_v1_0_5
+Z11 !s92 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -work videoaxi4s_bridge_v1_0_5
+Z12 tCvgOpt 0
+vvideoaxi4s_bridge_v1_0_5_axis
+R1
+!i10b 1
+!s100 ;6;8;RC5]^RaB@4HQFSU^0
+IKUWKmg8_?@WOmcDaaDD_60
+R2
+R0
+R3
+R4
+R5
+L0 190
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vvideoaxi4s_bridge_v1_0_5_dsc_fifo
+R1
+!i10b 1
+!s100 bRR;95gK_e9P_2Go8J_nD1
+IG06QNfK@oc3;DoNIG^ie_1
+R2
+R0
+R3
+R4
+R5
+L0 1518
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vvideoaxi4s_bridge_v1_0_5_sub
+R1
+!i10b 1
+!s100 k52hkIngcPGM21nB<k?Cm1
+ISbdhdk?PZ;E;cI9[[EOMQ2
+R2
+R0
+R3
+R4
+R5
+L0 632
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12

@@ -1,0 +1,119 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/18019/AppData/Roaming/Xilinx/Vivado
+vEAMqkzDuWRZ73AziMlYAXg==
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 19 xdfe_fft_v1_0_4_pkg 0 22 PGnMTRXJH5iQLA^[U`?Gn2
+Z3 !s110 1677780474
+!i10b 0
+!s100 IiBM6]5dh[ok5n6hmULlz0
+I80JLm`45ziR]>MO]UO2:Y1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 775334064
+Z5 !s105 xdfe_fft_v1_0_rfs_sv_unit
+S1
+R0
+Z6 w1677780474
+Z7 8C:/Xilinx/Vivado/2022.2/data/ip/xilinx/xdfe_fft_v1_0/hdl/xdfe_fft_v1_0_rfs.sv
+Z8 FC:/Xilinx/Vivado/2022.2/data/ip/xilinx/xdfe_fft_v1_0/hdl/xdfe_fft_v1_0_rfs.sv
+Z9 L0 87
+Z10 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z11 !s108 1677780473.000000
+Z12 !s107 C:/Xilinx/Vivado/2022.2/data/ip/xilinx/xdfe_fft_v1_0/hdl/xdfe_fft_v1_0_rfs.sv|
+Z13 !s90 -L|xdfe_common_v1_0_0|-L|xdfe_fft_v1_0_4|+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl|-sv|-svinputport=relaxed|-work|xdfe_fft_v1_0_4|-f|C:\Users\18019\Documents\UofU\SPRING2023\capstoneProject\MemoryVHDL\NeuralNet\NeuralNet.cache\compile_simlib\modelsim/xdfe_fft_v1_0_4/.cxl.systemverilog.xdfe_fft_v1_0_4.xdfe_fft_v1_0_4.nt64.cmf|
+!i113 1
+Z14 o-L xdfe_common_v1_0_0 -L xdfe_fft_v1_0_4 -sv -svinputport=relaxed -work xdfe_fft_v1_0_4
+Z15 !s92 -L xdfe_common_v1_0_0 -L xdfe_fft_v1_0_4 {+incdir+C:\Users\18019\AppData\Roaming\Xilinx\Vivado\.cxl.ip/incl} -sv -svinputport=relaxed -work xdfe_fft_v1_0_4
+Z16 tCvgOpt 0
+na249764
+vi1GM31XN4Q64cOmgkWb82uX/YBMpeaCBbNCV6auKiAU=
+R1
+R2
+R3
+!i10b 0
+!s100 bH=zf_IQ1cmKeCgbU?ffK1
+I[53mRT6ncRoTfcdkL:7Qe0
+R4
+!i8a 1410019024
+R5
+S1
+R0
+R6
+R7
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R14
+R15
+R16
+n647e2fc
+v/Zz4cRqvfuysteuZowav8XfBvO/hWBrmmCt2ysxrsoyjeysfCoUQXtO3qNnNbyBn
+R1
+R3
+!i10b 0
+!s100 UzVlZZCV^`mH6O`n[cjhe0
+IGKRidgUOaciZ4V`^z;0QQ0
+R4
+!i8a 134539008
+R5
+S1
+R0
+R6
+R7
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R14
+R15
+R16
+nc07bc02
+XWANSwHWZswmE2jTzP8DnL4RZHnwmtdr15au70Bk73Ao=
+R1
+R3
+!i10b 0
+!s100 YkzalUJ<bImJfPmg5Uank1
+IPGnMTRXJH5iQLA^[U`?Gn2
+VPGnMTRXJH5iQLA^[U`?Gn2
+!i8a 196628720
+S1
+R0
+R6
+R7
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R14
+R15
+R16
+n7644387
