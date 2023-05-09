@@ -2,12 +2,12 @@ import numpy as np
 from tensorflow import keras
 from Train_Neural_Net import X_test,Y_test
 
-model = keras.models.load_model('DecoderNetGRU')
+model = keras.models.load_model('GRU.V.2.06.h5')
 #This will load the saved model
 
-prediction = model.predict(X_test[0:][0:])
+prediction = model.predict(X_test[0:][0])
 #this will predict all the test pieces of data.
-Y_test[0:][0:] #This is all the correct answers
+Y_test[0:][0] #This is all the correct answers
 
 
 errors =0
@@ -19,7 +19,7 @@ while successfull_code_words<len(Y_test):
     anser = Y_test[successfull_code_words]
     pred = prediction[successfull_code_words]
     #print(anser,prediction)
-    for i in range(0,15):
+    for i in range(0,63):
         if pred[i]>0.5:
             if anser[i] != 1:
                 #print(pred[i],anser[i])
@@ -33,8 +33,8 @@ while successfull_code_words<len(Y_test):
     successfull_code_words+=1
         
 print('Total bits transmitted {}\ntotal errors in recieved data {}'
-.format(successfull_code_words*16,errors))
+.format(successfull_code_words*63,errors))
 print('The percent error in the recieved data is {} %'
-.format(errors/(len(Y_test)*16)))
+.format(errors/(len(Y_test)*63)))
 
 
