@@ -7,6 +7,9 @@ function [nn, output] = nn_eval(nn, input)
             case 'InputLayer'
                 % do nothing
                 
+            case 'Dropout'
+                % do nothing
+                
             case 'Dense'
                 if nn.precision == 0
                     % float calculation
@@ -17,6 +20,10 @@ function [nn, output] = nn_eval(nn, input)
                 end
                 
             case 'GRU'
+                if nn.layer(k).flip
+                    %input = flip(input, 1);
+                end
+                
                 if nn.precision == 0
                     x = nn.layer(k).kernel * input + nn.layer(k).bias;
                     rx = nn.layer(k).rkernel * nn.layer(k).h + nn.layer(k).rbias;
@@ -42,6 +49,10 @@ function [nn, output] = nn_eval(nn, input)
                 input = nn.layer(k).h;
                 
             case 'LSTM'
+                if nn.layer(k).flip
+                    %input = flip(input, 1);
+                end
+                
                 if nn.precision == 0
                     z = (nn.layer(k).kernel * input) + (nn.layer(k).rkernel * nn.layer(k).h) + nn.layer(k).bias;
                 else
@@ -77,6 +88,5 @@ function [nn, output] = nn_eval(nn, input)
                 error(['Unsupported layer type ' type])
         end
     end
-    
     output = input;
 end

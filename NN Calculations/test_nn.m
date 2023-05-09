@@ -2,7 +2,8 @@ clear; close all; clc
 
 
 %% Read NN data
-filename = 'test_lstm.h5'; % from "test nn model.py"
+%filename = 'test_lstm.h5'; % from "test nn model.py"
+filename = 'basic_nn.h5';
 nn = nn_load(filename);
 
 %% Load test data
@@ -36,7 +37,8 @@ fprintf("Floating point accuracy: %g\n\n", fpaccuracy);
 
 %% Compare to TF Output
 
-tf_out = csvread('lstm_output.csv')';
+%tf_out = csvread('lstm_output.csv')';
+tf_out = csvread('basic_nn.csv')';
 diff = abs(tf_out - nnout);
 diff_max = max(diff, [], 'all');
 diff_mean = mean(diff, 'all');
@@ -47,8 +49,8 @@ fprintf("Average Difference compared to TF Output: %g\nLargest Difference compar
 
 %% Calculate using N bits of precsion (1 bit for sign, N-1 for data)
 
-n_first = 4;
-n_last = 20;
+n_first = 17;
+n_last = 17;
 
 bits = zeros(1, n_last-n_first+1);
 accuracy = zeros(1, n_last-n_first+1);
@@ -71,6 +73,7 @@ for N = 1:(n_last-n_first+1)
     % scale test data
     max_val = nn.bit_scale - 1;
     test_data_b = round(test_data_f * max_val);
+    test_data_b = test_data_b(:,1);
     
     for k = 0:27
         input = test_data_b( (k*28+1) : (k+1)*28, : );

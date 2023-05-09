@@ -33,14 +33,12 @@ architecture Behavioral of af_tanh_tb is
     constant FIXED_POINT  : integer := 16; -- number of fractional bits (i.e. (1<<FIXED_POINT) == 1.0)
     
     component af_tanh is
-        Generic (
-            REG_WIDTH   : integer := REG_WIDTH;
-            FIXED_POINT : integer := FIXED_POINT
-        );
         Port (
+            clk      : in STD_LOGIC;
             i_input  : in  SIGNED (REG_WIDTH-1 downto 0);
             i_enable : in  STD_LOGIC;
-            o_output : out SIGNED (REG_WIDTH-1 downto 0)
+            o_output : out SIGNED (REG_WIDTH-1 downto 0);
+            o_ready  : out STD_LOGIC
         );
     end component af_tanh;
     
@@ -67,9 +65,11 @@ architecture Behavioral of af_tanh_tb is
     signal x_list : SIGNED_ARRAY (0 to test_count-1)(REG_WIDTH-1 downto 0) := load_array("tanh_x.mem", test_count);
     signal y_list : SIGNED_ARRAY (0 to test_count-1)(REG_WIDTH-1 downto 0) := load_array("tanh_y_expect.mem", test_count);
     
+    signal clk : STD_LOGIC := '0';
     signal x  : SIGNED (REG_WIDTH-1 downto 0) := (others => '0');
     signal y  : SIGNED (REG_WIDTH-1 downto 0) := (others => '0');
     signal en : STD_LOGIC := '0';
+    signal ready : STD_LOGIC;
 begin
     
     -- simulation control
@@ -82,15 +82,23 @@ begin
         
         for i in 0 to test_count-1 loop
             x <= x_list(i);
-            wait for 1 ns;
             en <= '1';
             wait for 1 ns;
+            
+            while ready /= '1' loop
+                clk <= not clk;
+                wait for 1 ns;
+            end loop;
             
             if y /= y_list(i) then
                 errors <= errors + 1;
             end if;
             
             en <= '0';
+            clk <= not clk;
+            wait for 1 ns;
+            clk <= not clk;
+            wait for 1 ns;
             counter <= counter + 1;
         end loop;
         
@@ -101,9 +109,11 @@ begin
     
     dut : af_tanh
         Port map (
+            clk      => clk,
             i_input  => x,
             i_enable => en,
-            o_output => y
+            o_output => y,
+            o_ready  => ready
         );
     
 end Behavioral;

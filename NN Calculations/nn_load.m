@@ -20,15 +20,14 @@ function nn = nn_load(filename, precision, verbose)
     % decode model config data
     model_config = jsondecode(h5readatt(filename, '/', 'model_config'));
     
-    %%%%%%%% The model we are using is actually Functional, this will allow it to still run, and get rid of errors.
     %if strcmp(model_config.class_name, 'Sequential') == 0
-       % error(['Unsupported class ' model_config.class_name])
+    %    error(['Unsupported class ' model_config.class_name])
     %end
     
     layers = length(model_config.config.layers);
     
     nn.layerCount = 0;
-    nn.layer(1) = struct('type',[], 'kernel',[], 'rkernel',[], 'bias',[], 'rbias',[], 'units',[], 'activation',[], 'ractivation',[], 'af',[], 'raf',[], 'h',[], 'c',[]);
+    nn.layer(1) = struct('type',[], 'kernel',[], 'rkernel',[], 'bias',[], 'rbias',[], 'units',[], 'activation',[], 'ractivation',[], 'af',[], 'raf',[], 'h',[], 'c',[], 'flip',[]);
     nn.precision = precision;
     nn.bit_scale = bit_scale;
     
@@ -44,6 +43,12 @@ function nn = nn_load(filename, precision, verbose)
         
         switch type
             case 'InputLayer'
+                % doesn't actually do anything ?
+                if verbose
+                    fprintf("     %-18s  %-24s  \n", type, name);
+                end
+                
+            case 'Dropout'
                 % doesn't actually do anything ?
                 if verbose
                     fprintf("     %-18s  %-24s  \n", type, name);
@@ -79,6 +84,7 @@ function nn = nn_load(filename, precision, verbose)
                 nn.layer(nn.layerCount).units = units;
                 nn.layer(nn.layerCount).activation = model_config.config.layers(k).config.activation;
                 nn.layer(nn.layerCount).ractivation = model_config.config.layers(k).config.recurrent_activation;
+                nn.layer(nn.layerCount).flip = (model_config.config.layers(k).config.go_backwards == 1);
                 
                 if verbose
                     fprintf("%3d  %-18s  %-24s  %d\n", nn.layerCount, type, name, units);
@@ -99,6 +105,7 @@ function nn = nn_load(filename, precision, verbose)
                 nn.layer(nn.layerCount).units = units;
                 nn.layer(nn.layerCount).activation = model_config.config.layers(k).config.activation;
                 nn.layer(nn.layerCount).ractivation = model_config.config.layers(k).config.recurrent_activation;
+                nn.layer(nn.layerCount).flip = (model_config.config.layers(k).config.go_backwards == 1);
                 
                 if verbose
                     fprintf("%3d  %-18s  %-24s  %d\n", nn.layerCount, type, name, units);

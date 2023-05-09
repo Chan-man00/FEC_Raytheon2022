@@ -23,12 +23,9 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
 use IEEE.STD_LOGIC_MISC.ALL;
+use work.Common.ALL;
 
 entity dense_relu is
-    Generic (
-        REG_WIDTH   : integer;
-        FIXED_POINT : integer
-    );
     Port (
         clk        : in  STD_LOGIC;
         i_initbias : in  STD_LOGIC;
@@ -42,10 +39,6 @@ end dense_relu;
 
 architecture Behavioral of dense_relu is
     component af_relu is
-        Generic (
-            REG_WIDTH   : integer := REG_WIDTH;
-            FIXED_POINT : integer := FIXED_POINT
-        );
         Port (
             i_input    : in  SIGNED (REG_WIDTH*2-1 downto 0);
             o_output   : out SIGNED (REG_WIDTH-1 downto 0);
@@ -65,9 +58,13 @@ begin
     begin
         if rising_edge(clk) then
             if i_initbias = '1' then
-                acc(ACC_SX_BITS) <= (others => i_input(REG_WIDTH-1)); -- sign-extend accumulator
-                acc(ACC_REG_BITS) <= i_input; -- set accumulator value to bias value
-                acc(FIXED_POINT-1) <= '1'; -- add 1/2 for rounding 
+                acc(ACC_SX_BITS) <= (others => i_input(REG_WIDTH-1)); -- sign-extend bias value
+                if i_input(REG_WIDTH-1) = '0' then
+                    acc(ACC_REG_BITS) <= i_input; -- set accumulator value to bias value
+                else
+                    acc(ACC_REG_BITS) <= i_input; -- subtract 1 from negative values for rounding (half gets added back next)
+                end if;
+                acc(FIXED_POINT-1) <= '1'; -- add 1/2 for rounding
                 acc(FIXED_POINT-2 downto 0) <= (others => '0'); -- set sub-fractional bits to 0
             elsif i_mult = '1' then
                 acc <= acc + (i_input * i_weight);

@@ -72,7 +72,7 @@ c =                          ydt(x1);
 d =    yt(x1);
 
 calcy = round((a.*t3 + b.*t2 + c.*t) / one) + d;
-error = (calcy - y);
+error = abs(calcy - y);
 
 figure(1)
 plot(x,y, x,calcy)
